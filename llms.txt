@@ -1,0 +1,42 @@
+# Square Studio
+
+> Luxembourg-based UI/UX and branding studio specializing in Framer websites, digital products, and design systems.
+
+Square Studio (Square Studio s.à.r.l.) is a design studio based in Luxembourg City. It works with SaaS, fintech, and B2B companies on product design, visual identity, and high-performance marketing sites built in Framer.
+
+## Main pages
+
+- Home: https://www.squarestudio.design/
+- Studio: https://www.squarestudio.design/studio
+- Services: https://www.squarestudio.design/services
+- Projects: https://www.squarestudio.design/projects
+- Insights: https://www.squarestudio.design/insights
+- Contact: https://www.squarestudio.design/contact
+- FAQ: https://www.squarestudio.design/faq
+
+## Services
+
+- UI/UX design for web and mobile products
+- Framer website design and development
+- Design systems and component libraries
+- Brand identity and visual design
+- Prototyping and design-to-development handoff
+
+## Contact
+
+- Email: info@squarestudio.lu
+- Phone: +352 661 920 402
+- Address: 10A Rue du Puits, 2355 Luxembourg City, Luxembourg
+
+## Social
+
+- LinkedIn: https://www.linkedin.com/company/square-studio-lu
+- Instagram: https://www.instagram.com/squarestudio.design/
+- Dribbble: https://dribbble.com/squarestudio-lu
+- Behance: https://www.behance.net/squarestudio-lu
+- X: https://x.com/squarestudiolux
+
+## Optional
+
+- Privacy: https://www.squarestudio.design/privacy
+- Terms: https://www.squarestudio.design/terms
