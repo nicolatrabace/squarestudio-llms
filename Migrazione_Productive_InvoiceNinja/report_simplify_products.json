@@ -1,0 +1,45 @@
+{
+  "deleted_product_ids": [
+    "GELe3Mb698",
+    "yJrb2KdWLD",
+    "LYqaQlenjk",
+    "QJ0dN6dLOv",
+    "7N1aMAaWmp",
+    "q9wdLwbjPX",
+    "oBDbDxbl2E",
+    "4openRe7Az",
+    "EKQe1RaJYv",
+    "joQeZJepZV"
+  ],
+  "products_after": [
+    {
+      "key": "Design services (day)",
+      "price": 400.36,
+      "id": "k8mepY2aMy"
+    },
+    {
+      "key": "Brand identity",
+      "price": 0,
+      "id": "WJxbo2jagw"
+    },
+    {
+      "key": "Framer website",
+      "price": 0,
+      "id": "4open5Rd7A"
+    },
+    {
+      "key": "DSK design services (day)",
+      "price": 792,
+      "id": "W4QbYKezqM"
+    },
+    {
+      "key": "DSK Extra (day)",
+      "price": 792,
+      "id": "7LDdwRb1YK"
+    }
+  ],
+  "project_renames": {
+    "Michael Jennings - Framer website": "Michael Jennings",
+    "KYIP CAPITAL - Framer": "KYIP CAPITAL"
+  }
+}

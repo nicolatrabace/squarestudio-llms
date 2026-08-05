@@ -1,0 +1,202 @@
+{
+  "client": {
+    "name": "jemmic",
+    "id": "mWZdPNwaKg",
+    "vat_number": "LU23122604"
+  },
+  "created": [
+    {
+      "number": "2025-27",
+      "invoice_ninja_id": "Opnel5aKBz",
+      "status_id": "4",
+      "amount": 4684.21,
+      "balance": 0,
+      "paid_to_date": 4684.21,
+      "date": "2025-12-01",
+      "due_date": "2025-12-11",
+      "expected_total": 4684.21,
+      "amount_match": true,
+      "source_payment_status": "paid",
+      "payment_id": "Wpmbk5ezJn",
+      "tax_on_lines": [
+        [
+          "LUX",
+          17,
+          680.61
+        ]
+      ]
+    },
+    {
+      "number": "2025-30",
+      "invoice_ninja_id": "wMvbmOeYAl",
+      "status_id": "4",
+      "amount": 5855.27,
+      "balance": 0,
+      "paid_to_date": 5855.27,
+      "date": "2026-01-02",
+      "due_date": "2026-01-12",
+      "expected_total": 5855.27,
+      "amount_match": true,
+      "source_payment_status": "paid",
+      "payment_id": "Opnel5aKBz",
+      "tax_on_lines": [
+        [
+          "LUX",
+          17,
+          850.77
+        ]
+      ]
+    },
+    {
+      "number": "2026-2",
+      "invoice_ninja_id": "4openRe7Az",
+      "status_id": "4",
+      "amount": 4684.21,
+      "balance": 0,
+      "paid_to_date": 4684.21,
+      "date": "2026-02-02",
+      "due_date": "2026-02-12",
+      "expected_total": 4684.21,
+      "amount_match": true,
+      "source_payment_status": "paid",
+      "payment_id": "wMvbmOeYAl",
+      "tax_on_lines": [
+        [
+          "LUX",
+          17,
+          680.61
+        ]
+      ]
+    },
+    {
+      "number": "2026-4",
+      "invoice_ninja_id": "WJxbojagwO",
+      "status_id": "4",
+      "amount": 4684.21,
+      "balance": 0,
+      "paid_to_date": 4684.21,
+      "date": "2026-03-02",
+      "due_date": "2026-03-12",
+      "expected_total": 4684.21,
+      "amount_match": true,
+      "source_payment_status": "paid",
+      "payment_id": "4openRe7Az",
+      "tax_on_lines": [
+        [
+          "LUX",
+          17,
+          680.61
+        ]
+      ]
+    },
+    {
+      "number": "2026-8",
+      "invoice_ninja_id": "k8mep2bMyJ",
+      "status_id": "4",
+      "amount": 5621.05,
+      "balance": 0,
+      "paid_to_date": 5621.05,
+      "date": "2026-04-01",
+      "due_date": "2026-04-11",
+      "expected_total": 5621.05,
+      "amount_match": true,
+      "source_payment_status": "paid",
+      "payment_id": "WJxbojagwO",
+      "tax_on_lines": [
+        [
+          "LUX",
+          17,
+          816.73
+        ]
+      ]
+    },
+    {
+      "number": "2026-14",
+      "invoice_ninja_id": "l4zbq2dprO",
+      "status_id": "4",
+      "amount": 3981.58,
+      "balance": 0,
+      "paid_to_date": 3981.58,
+      "date": "2026-05-01",
+      "due_date": "2026-05-11",
+      "expected_total": 3981.58,
+      "amount_match": true,
+      "source_payment_status": "paid",
+      "payment_id": "k8mep2bMyJ",
+      "tax_on_lines": [
+        [
+          "LUX",
+          17,
+          578.52
+        ]
+      ]
+    },
+    {
+      "number": "2026-18",
+      "invoice_ninja_id": "yMYerEdOBQ",
+      "status_id": "4",
+      "amount": 4215.79,
+      "balance": 0,
+      "paid_to_date": 4215.79,
+      "date": "2026-06-01",
+      "due_date": "2026-06-11",
+      "expected_total": 4215.79,
+      "amount_match": true,
+      "source_payment_status": "paid",
+      "payment_id": "l4zbq2dprO",
+      "tax_on_lines": [
+        [
+          "LUX",
+          17,
+          612.55
+        ]
+      ]
+    },
+    {
+      "number": "2026-19",
+      "invoice_ninja_id": "gl9avmeG1v",
+      "status_id": "4",
+      "amount": 5152.63,
+      "balance": 0,
+      "paid_to_date": 5152.63,
+      "date": "2026-07-01",
+      "due_date": "2026-07-11",
+      "expected_total": 5152.63,
+      "amount_match": true,
+      "source_payment_status": "paid",
+      "payment_id": "yMYerEdOBQ",
+      "tax_on_lines": [
+        [
+          "LUX",
+          17,
+          748.67
+        ]
+      ]
+    },
+    {
+      "number": "2026-27",
+      "invoice_ninja_id": "7LDdwRb1YK",
+      "status_id": "2",
+      "amount": 4918.42,
+      "balance": 4918.42,
+      "paid_to_date": 0,
+      "date": "2026-08-03",
+      "due_date": "2026-08-13",
+      "expected_total": 4918.42,
+      "amount_match": true,
+      "source_payment_status": "unpaid",
+      "payment_id": null,
+      "tax_on_lines": [
+        [
+          "LUX",
+          17,
+          714.64
+        ]
+      ]
+    }
+  ],
+  "skipped": [],
+  "errors": [],
+  "warnings": [],
+  "source_count": 9
+}

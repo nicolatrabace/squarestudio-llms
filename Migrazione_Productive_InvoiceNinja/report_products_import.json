@@ -1,0 +1,335 @@
+{
+  "created": [
+    {
+      "productive_id": "15725770",
+      "invoice_ninja_id": "Wpmbk5ezJn",
+      "product_key": "Land zum Leben Merzig-Wadern e.V. — Anpassung der bestehenden Vorlage",
+      "price": 400.0,
+      "company": "Land zum Leben Merzig-Wadern e.V."
+    },
+    {
+      "productive_id": "11938739",
+      "invoice_ninja_id": "Opnel5aKBz",
+      "product_key": "PS CarWash — Basic website",
+      "price": 9600.0,
+      "company": "PS CarWash"
+    },
+    {
+      "productive_id": "14442936",
+      "invoice_ninja_id": "wMvbmOeYAl",
+      "product_key": "Credit Klub — Brand identity",
+      "price": 2000.0,
+      "company": "Credit Klub"
+    },
+    {
+      "productive_id": "14799198",
+      "invoice_ninja_id": "4openRe7Az",
+      "product_key": "Credit Klub — Brand identity",
+      "price": 2000.0,
+      "company": "Credit Klub"
+    },
+    {
+      "productive_id": "13694161",
+      "invoice_ninja_id": "WJxbojagwO",
+      "product_key": "Seadog Design — Budget",
+      "price": 500.0,
+      "company": "Seadog Design"
+    },
+    {
+      "productive_id": "11938737",
+      "invoice_ninja_id": "k8mep2bMyJ",
+      "product_key": "PS CarWash — Business card design",
+      "price": 400.0,
+      "company": "PS CarWash"
+    },
+    {
+      "productive_id": "13114667",
+      "invoice_ninja_id": "l4zbq2dprO",
+      "product_key": "RMK — cladbond.com",
+      "price": 4500.0,
+      "company": "RMK"
+    },
+    {
+      "productive_id": "11040821",
+      "invoice_ninja_id": "yMYerEdOBQ",
+      "product_key": "Luxembourg National Data Service (LNDS) — Design system",
+      "price": 800.0,
+      "company": "Luxembourg National Data Service (LNDS)"
+    },
+    {
+      "productive_id": "15370107",
+      "invoice_ninja_id": "gl9avmeG1v",
+      "product_key": "LetzToken — Design system",
+      "price": 7000.0,
+      "company": "LetzToken"
+    },
+    {
+      "productive_id": "11048010",
+      "invoice_ninja_id": "7LDdwRb1YK",
+      "product_key": "DSK — Extra",
+      "price": 792.0,
+      "company": "DSK"
+    },
+    {
+      "productive_id": "11938738",
+      "invoice_ninja_id": "JX7ax9byv4",
+      "product_key": "PS CarWash — Flyer design",
+      "price": 1000.0,
+      "company": "PS CarWash"
+    },
+    {
+      "productive_id": "14160940",
+      "invoice_ninja_id": "kzPdy7aQro",
+      "product_key": "Seadog Design — Framer development",
+      "price": 150.0,
+      "company": "Seadog Design"
+    },
+    {
+      "productive_id": "13395996",
+      "invoice_ninja_id": "mxkazYeJ0P",
+      "product_key": "Jeremy Gudac — Framer website",
+      "price": 5000.0,
+      "company": "Jeremy Gudac"
+    },
+    {
+      "productive_id": "13954177",
+      "invoice_ninja_id": "4w9aAOdvMR",
+      "product_key": "CMB Studio — Framer website",
+      "price": 2500.0,
+      "company": "CMB Studio"
+    },
+    {
+      "productive_id": "14277791",
+      "invoice_ninja_id": "X46dBXa79j",
+      "product_key": "April™ — Framer website",
+      "price": 1000.0,
+      "company": "April™"
+    },
+    {
+      "productive_id": "14340131",
+      "invoice_ninja_id": "oBDbDxbl2E",
+      "product_key": "CMB Studio — Framer website",
+      "price": 2500.0,
+      "company": "CMB Studio"
+    },
+    {
+      "productive_id": "14443027",
+      "invoice_ninja_id": "K4oeEva0By",
+      "product_key": "Credit Klub — Framer website",
+      "price": 2500.0,
+      "company": "Credit Klub"
+    },
+    {
+      "productive_id": "14646974",
+      "invoice_ninja_id": "xYRdG7dDzO",
+      "product_key": "Margin Health — Framer website",
+      "price": 3500.0,
+      "company": "Margin Health"
+    },
+    {
+      "productive_id": "14664949",
+      "invoice_ninja_id": "1YQdJ2dOGp",
+      "product_key": "TP Quants — Framer website",
+      "price": 2500.0,
+      "company": "TP Quants"
+    },
+    {
+      "productive_id": "14665511",
+      "invoice_ninja_id": "4y1aKReQGw",
+      "product_key": "Margin Health — Framer website",
+      "price": 3500.0,
+      "company": "Margin Health"
+    },
+    {
+      "productive_id": "14674409",
+      "invoice_ninja_id": "q9wdLwbjPX",
+      "product_key": "TP Quants — Framer website",
+      "price": 2500.0,
+      "company": "TP Quants"
+    },
+    {
+      "productive_id": "14799199",
+      "invoice_ninja_id": "7N1aMAaWmp",
+      "product_key": "Credit Klub — Framer website",
+      "price": 2500.0,
+      "company": "Credit Klub"
+    },
+    {
+      "productive_id": "14921518",
+      "invoice_ninja_id": "QJ0dN6dLOv",
+      "product_key": "April™ — Framer website",
+      "price": 1000.0,
+      "company": "April™"
+    },
+    {
+      "productive_id": "14998426",
+      "invoice_ninja_id": "z3YaOpbxql",
+      "product_key": "Isagani Yorke Capital Partners — Framer website",
+      "price": 7500.0,
+      "company": "Isagani Yorke Capital Partners"
+    },
+    {
+      "productive_id": "15178972",
+      "invoice_ninja_id": "mWZdPwbKgR",
+      "product_key": "Michael Jennings — Framer website",
+      "price": 2250.0,
+      "company": "Michael Jennings"
+    },
+    {
+      "productive_id": "15214813",
+      "invoice_ninja_id": "LYqaQlenjk",
+      "product_key": "Michael Jennings — Framer website",
+      "price": 2250.0,
+      "company": "Michael Jennings"
+    },
+    {
+      "productive_id": "13345425",
+      "invoice_ninja_id": "JAPdRqbGyO",
+      "product_key": "The Arc / FlourishLab — Framer Website — FlourishLab",
+      "price": 1000.0,
+      "company": "The Arc / FlourishLab"
+    },
+    {
+      "productive_id": "13377220",
+      "invoice_ninja_id": "Oy5eVMdEP4",
+      "product_key": "The Arc / FlourishLab — Framer Website — FlourishLab",
+      "price": 1000.0,
+      "company": "The Arc / FlourishLab"
+    },
+    {
+      "productive_id": "13175533",
+      "invoice_ninja_id": "rlNbWJayg5",
+      "product_key": "Style Supply — Framer Website — Style Supply",
+      "price": 3000.0,
+      "company": "Style Supply"
+    },
+    {
+      "productive_id": "13330887",
+      "invoice_ninja_id": "kQBeXWdyK8",
+      "product_key": "Good Form — Framer Website Build (3-5 pages + CMS)",
+      "price": 4250.0,
+      "company": "Good Form"
+    },
+    {
+      "productive_id": "11112074",
+      "invoice_ninja_id": "W4QbYKezqM",
+      "product_key": "DSK — General design services",
+      "price": 792.0,
+      "company": "DSK"
+    },
+    {
+      "productive_id": "11142670",
+      "invoice_ninja_id": "joQeZJepZV",
+      "product_key": "MaPS System — General design services",
+      "price": 400.36,
+      "company": "MaPS System"
+    },
+    {
+      "productive_id": "11142672",
+      "invoice_ninja_id": "EKQe1RaJYv",
+      "product_key": "jemmic — General design services",
+      "price": 400.36,
+      "company": "jemmic"
+    },
+    {
+      "productive_id": "11047909",
+      "invoice_ninja_id": "yJrb2KdWLD",
+      "product_key": "jemmic — General design services Jemmic 2025",
+      "price": 400.36,
+      "company": "jemmic"
+    },
+    {
+      "productive_id": "10878647",
+      "invoice_ninja_id": "GELe3Mb698",
+      "product_key": "MaPS System — General design services MaPS 2025",
+      "price": 400.36,
+      "company": "MaPS System"
+    },
+    {
+      "productive_id": "11938740",
+      "invoice_ninja_id": "KGRb41dBLZ",
+      "product_key": "PS CarWash — Integrations, meetings and orders",
+      "price": 500.0,
+      "company": "PS CarWash"
+    },
+    {
+      "productive_id": "13175532",
+      "invoice_ninja_id": "qM7e5Ba2vp",
+      "product_key": "Kaizntree — Kaizntree - Website design",
+      "price": 1500.0,
+      "company": "Kaizntree"
+    },
+    {
+      "productive_id": "13323797",
+      "invoice_ninja_id": "QK9b6nbEvY",
+      "product_key": "Kaizntree — Kaizntree - Website design",
+      "price": 2000.0,
+      "company": "Kaizntree"
+    },
+    {
+      "productive_id": "14765535",
+      "invoice_ninja_id": "O5xe7jd7rJ",
+      "product_key": "Kaizntree — Kaizntree - Website design",
+      "price": 1250.0,
+      "company": "Kaizntree"
+    },
+    {
+      "productive_id": "14921572",
+      "invoice_ninja_id": "MVyb8mdvAZ",
+      "product_key": "Kaizntree — Kaizntree - Website design",
+      "price": 1250.0,
+      "company": "Kaizntree"
+    },
+    {
+      "productive_id": "13113637",
+      "invoice_ninja_id": "VWPe9xdLyw",
+      "product_key": "MNAHA — Landing page Expo Berthe Brincour",
+      "price": 5000.0,
+      "company": "MNAHA"
+    },
+    {
+      "productive_id": "13175060",
+      "invoice_ninja_id": "QnXe0vbxrL",
+      "product_key": "The Human Architect — Phase 1 - Website Design & Development (Framer)",
+      "price": 8000.0,
+      "company": "The Human Architect"
+    },
+    {
+      "productive_id": "13174926",
+      "invoice_ninja_id": "WjnegJYdwZ",
+      "product_key": "Omer Poizner — Portfolio Website Framer",
+      "price": 1500.0,
+      "company": "Omer Poizner"
+    },
+    {
+      "productive_id": "13218621",
+      "invoice_ninja_id": "VolejRRejN",
+      "product_key": "Omer Poizner — Portfolio Website Framer",
+      "price": 1500.0,
+      "company": "Omer Poizner"
+    },
+    {
+      "productive_id": "11938736",
+      "invoice_ninja_id": "WpmbkR5azJ",
+      "product_key": "PS CarWash — Simple logo design",
+      "price": 3500.0,
+      "company": "PS CarWash"
+    },
+    {
+      "productive_id": "14387416",
+      "invoice_ninja_id": "OpnelY5aKB",
+      "product_key": "Charmstone Digital — Website Development in Framer",
+      "price": 3500.0,
+      "company": "Charmstone Digital"
+    },
+    {
+      "productive_id": "13164691",
+      "invoice_ninja_id": "wMvbmZOdYA",
+      "product_key": "Standd — Website Redesign Framer - Phase 1 & 2",
+      "price": 4250.0,
+      "company": "Standd"
+    }
+  ],
+  "skipped_existing": [],
+  "errors": []
+}
