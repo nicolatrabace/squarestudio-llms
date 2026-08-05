@@ -1,0 +1,191 @@
+{
+  "explanation": "Nei JSON di export molte Tax ID Productive erano già sostituite con placeholder 123456789 o vuote. Non posso rileggerle da Productive (vincolo). VAT reali già in Invoice Ninja: quelle presenti nei JSON + La-Royale e Paladium fornite/confermate a parte.",
+  "already_ok_clients": [
+    "April™",
+    "CMB Studio",
+    "Credit Klub",
+    "DSK",
+    "Esch ville",
+    "jemmic",
+    "LetzToken",
+    "MaPS System",
+    "Ristorante La Caserma",
+    "Seadog Design",
+    "TP Quants"
+  ],
+  "overrides_applied": {
+    "La-Royale": "LU17430947",
+    "Paladium Co-Working Space": "LU32150436"
+  },
+  "missing_clients": [
+    {
+      "name": "Awevo",
+      "json_vat": "123456789",
+      "has_invoices": false
+    },
+    {
+      "name": "Charmstone Digital",
+      "json_vat": "123456789",
+      "has_invoices": false
+    },
+    {
+      "name": "Farmer Palmers Farm Park",
+      "json_vat": "123456789",
+      "has_invoices": false
+    },
+    {
+      "name": "Good Form",
+      "json_vat": null,
+      "has_invoices": false
+    },
+    {
+      "name": "Isagani Yorke Capital Partners",
+      "json_vat": "",
+      "has_invoices": false
+    },
+    {
+      "name": "Jeremy Gudac",
+      "json_vat": "",
+      "has_invoices": false
+    },
+    {
+      "name": "Kaizntree",
+      "json_vat": null,
+      "has_invoices": true
+    },
+    {
+      "name": "Land zum Leben Merzig-Wadern e.V.",
+      "json_vat": null,
+      "has_invoices": false
+    },
+    {
+      "name": "Luxembourg National Data Service (LNDS)",
+      "json_vat": "123456789",
+      "has_invoices": false
+    },
+    {
+      "name": "Margin Health",
+      "json_vat": null,
+      "has_invoices": true
+    },
+    {
+      "name": "Michael Jennings",
+      "json_vat": null,
+      "has_invoices": true
+    },
+    {
+      "name": "MNAHA",
+      "json_vat": null,
+      "has_invoices": false
+    },
+    {
+      "name": "Omer Pozner",
+      "json_vat": null,
+      "has_invoices": true
+    },
+    {
+      "name": "PS CarWash",
+      "json_vat": null,
+      "has_invoices": false
+    },
+    {
+      "name": "RMK",
+      "json_vat": null,
+      "has_invoices": false
+    },
+    {
+      "name": "Sita Gastronomia Italiana",
+      "json_vat": "123456789",
+      "has_invoices": false
+    },
+    {
+      "name": "Standd",
+      "json_vat": null,
+      "has_invoices": false
+    },
+    {
+      "name": "Steinberg Protocol",
+      "json_vat": "123456789",
+      "has_invoices": false
+    },
+    {
+      "name": "Style Supply",
+      "json_vat": null,
+      "has_invoices": false
+    },
+    {
+      "name": "The Arc / FlourishLab",
+      "json_vat": null,
+      "has_invoices": true
+    },
+    {
+      "name": "The Human Architect",
+      "json_vat": null,
+      "has_invoices": false
+    },
+    {
+      "name": "Unicraft VC",
+      "json_vat": "123456789",
+      "has_invoices": false
+    },
+    {
+      "name": "White Canvas Co",
+      "json_vat": "",
+      "has_invoices": false
+    }
+  ],
+  "missing_vendors": [
+    {
+      "name": "Apollo.io",
+      "json_vat": "123456789"
+    },
+    {
+      "name": "BGL BNP Paribas",
+      "json_vat": "123456789"
+    },
+    {
+      "name": "Denisa Zaharia (Freelancer)",
+      "json_vat": null
+    },
+    {
+      "name": "Figma",
+      "json_vat": "123456789"
+    },
+    {
+      "name": "Gulf Petroleum (Luxembourg) SA",
+      "json_vat": "123456789"
+    },
+    {
+      "name": "House of Entrepreneurship Luxembourg",
+      "json_vat": "123456789"
+    },
+    {
+      "name": "Jitter Solutions Corp",
+      "json_vat": "123456789"
+    },
+    {
+      "name": "Make",
+      "json_vat": "123456789"
+    },
+    {
+      "name": "Minsitry of Foreign Affairs",
+      "json_vat": "123456789"
+    },
+    {
+      "name": "Mobbin",
+      "json_vat": "123456789"
+    },
+    {
+      "name": "Productive",
+      "json_vat": "123456789"
+    },
+    {
+      "name": "TINKR",
+      "json_vat": null
+    },
+    {
+      "name": "Ville de Differdange",
+      "json_vat": "123456789"
+    }
+  ]
+}

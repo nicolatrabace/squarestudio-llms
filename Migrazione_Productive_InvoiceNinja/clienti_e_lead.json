@@ -1,0 +1,1271 @@
+[
+  {
+    "productive_id": "1350293",
+    "name": "April™",
+    "billing_name": "April™",
+    "vat": "06286330961",
+    "default_currency": "EUR",
+    "domain": "april.studio",
+    "company_code": "APR",
+    "created_at": "2026-05-15T08:38:48.138+02:00",
+    "productive_type_tag": [
+      "Partner",
+      "Client"
+    ],
+    "has_invoices_in_productive": true,
+    "tag_list": [],
+    "due_days": 10,
+    "emails": [],
+    "phones": [
+      "+39 0882 147700"
+    ],
+    "websites": [
+      "http://www.april.studio"
+    ],
+    "addresses": [
+      {
+        "city": "Milano",
+        "name": "Billing",
+        "state": "Lombardia",
+        "address": "Via Vincenzo Monti 25",
+        "country": "Italy",
+        "zipcode": "20123",
+        "billing_address": true,
+        "contact_datum_id": 4552323
+      }
+    ],
+    "named_contacts": [],
+    "notes": [],
+    "apollo_enrichment": {
+      "industry": "marketing & advertising",
+      "estimated_employees": 24,
+      "founded_year": 2001,
+      "linkedin_url": "http://www.linkedin.com/company/april-srl",
+      "description": "APRIL is a global creative agency that practices its alchemy in fashion, commerce, digital culture, ecology, history and design."
+    }
+  },
+  {
+    "productive_id": "1198059",
+    "name": "Awevo",
+    "billing_name": "Awevo",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "awevo.com",
+    "company_code": "AWEVO",
+    "created_at": "2025-11-13T14:25:55.462+01:00",
+    "productive_type_tag": [
+      "Client"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 10,
+    "emails": [
+      "info@awevo.com"
+    ],
+    "phones": [
+      "+352 28 13 15 802"
+    ],
+    "websites": [
+      "http://www.awevo.com"
+    ],
+    "addresses": [
+      {
+        "city": "Mondercange",
+        "name": "Billing",
+        "state": "Luxembourg",
+        "address": null,
+        "country": "Luxembourg",
+        "zipcode": "3895",
+        "billing_address": true,
+        "contact_datum_id": 3647607
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1363220",
+    "name": "Charmstone Digital",
+    "billing_name": "Charmstone Digital",
+    "vat": "123456789",
+    "default_currency": "USD",
+    "domain": "charmstonedigital.com",
+    "company_code": "CHARM",
+    "created_at": "2026-05-22T14:26:29.346+02:00",
+    "productive_type_tag": [
+      "Client"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": 10,
+    "emails": [
+      "contact@charmstonedigital.com"
+    ],
+    "phones": [],
+    "websites": [
+      "charmstonedigital.com"
+    ],
+    "addresses": [],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1333308",
+    "name": "CMB Studio",
+    "billing_name": "CMB Studio",
+    "vat": "FR5753104384011",
+    "default_currency": "EUR",
+    "domain": "cmbstudio.fr",
+    "company_code": "CMB",
+    "created_at": "2026-04-29T11:50:19.112+02:00",
+    "productive_type_tag": [
+      "Client"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": 10,
+    "emails": [],
+    "phones": [],
+    "websites": [
+      "cmbstudio.fr"
+    ],
+    "addresses": [],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1370614",
+    "name": "Credit Klub",
+    "billing_name": "Lux Kredit",
+    "vat": "104540869",
+    "default_currency": "EUR",
+    "domain": "luxkredit.lu",
+    "company_code": "LUXKREDIT",
+    "created_at": "2026-05-27T15:02:36.868+02:00",
+    "productive_type_tag": [
+      "Client"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": 10,
+    "emails": [
+      "a.wack@luxkredit.lu",
+      "wack.alexandra@gmail.com",
+      "malick.melanie@yahoo.fr"
+    ],
+    "phones": [
+      "+352 661 114 785"
+    ],
+    "websites": [
+      "luxkredit.lu"
+    ],
+    "addresses": [
+      {
+        "city": "Villerupt",
+        "name": "Billing",
+        "state": null,
+        "address": "10 Rue Raymond Poincaré",
+        "country": "France",
+        "zipcode": "54190",
+        "billing_address": true,
+        "contact_datum_id": 4626663
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1184743",
+    "name": "DSK",
+    "billing_name": "DSK Systems SA",
+    "vat": "LU15271378",
+    "default_currency": "EUR",
+    "domain": null,
+    "company_code": "DSK",
+    "created_at": "2025-10-29T15:00:12.035+01:00",
+    "productive_type_tag": [
+      "Client"
+    ],
+    "has_invoices_in_productive": true,
+    "tag_list": [],
+    "due_days": 10,
+    "emails": [
+      "dmuller@dsk.lu"
+    ],
+    "phones": [],
+    "websites": [
+      "dsk.lu"
+    ],
+    "addresses": [
+      {
+        "city": "Sprinkange",
+        "name": "Billing",
+        "state": "Dippach",
+        "address": "25 Op de Geieren",
+        "country": "Luxembourg",
+        "zipcode": "4970",
+        "billing_address": true,
+        "contact_datum_id": 3581813
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1185165",
+    "name": "Esch ville",
+    "billing_name": "Esch",
+    "vat": "LU10286570",
+    "default_currency": "EUR",
+    "domain": null,
+    "company_code": "ESCH",
+    "created_at": "2025-10-30T09:52:51.312+01:00",
+    "productive_type_tag": [
+      "Client"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": 30,
+    "emails": [],
+    "phones": [],
+    "websites": [],
+    "addresses": [
+      {
+        "city": "Esch-sur-Alzette",
+        "name": "Billing",
+        "state": null,
+        "address": "Place de l'Hôtel de Ville B.P. 145",
+        "country": "Luxembourg",
+        "zipcode": "4138",
+        "billing_address": true,
+        "contact_datum_id": 3584446
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1303090",
+    "name": "Farmer Palmers Farm Park",
+    "billing_name": "Farmer Palmers Farm Park",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "farmerpalmers.co.uk",
+    "company_code": "COMP",
+    "created_at": "2026-03-17T14:55:14.458+01:00",
+    "productive_type_tag": [
+      "Lead"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": 15,
+    "emails": [],
+    "phones": [
+      "+44 1202 622022"
+    ],
+    "websites": [
+      "http://www.farmerpalmers.co.uk"
+    ],
+    "addresses": [
+      {
+        "city": "Poole",
+        "name": "Billing",
+        "state": "England",
+        "address": null,
+        "country": "United Kingdom",
+        "zipcode": "BH16 6",
+        "billing_address": true,
+        "contact_datum_id": 4225121
+      }
+    ],
+    "named_contacts": [],
+    "notes": [],
+    "apollo_enrichment": {
+      "industry": "recreational facilities & services",
+      "estimated_employees": 4,
+      "founded_year": null,
+      "linkedin_url": "http://www.linkedin.com/company/farmer-palmers-farm-park",
+      "description": "Children's farm park in Dorset with animals and activities."
+    }
+  },
+  {
+    "productive_id": "1315222",
+    "name": "Good Form",
+    "billing_name": "Good Form",
+    "vat": null,
+    "default_currency": null,
+    "domain": "good-form.org",
+    "company_code": "GOOD",
+    "created_at": "2026-04-02T16:29:24.371+02:00",
+    "productive_type_tag": [
+      "Lead"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": null,
+    "emails": [],
+    "phones": [],
+    "websites": [],
+    "addresses": [],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1418252",
+    "name": "Isagani Yorke Capital Partners",
+    "billing_name": "Isagani Yorke Capital Partners",
+    "vat": "",
+    "default_currency": "USD",
+    "domain": "isaganiyorke.com",
+    "company_code": "Isagani Yorke Capital Partners",
+    "created_at": "2026-06-29T22:10:30.936+02:00",
+    "productive_type_tag": [
+      "Lead"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": 10,
+    "emails": [],
+    "phones": [
+      "+1 214-945-8516"
+    ],
+    "websites": [
+      "http://www.isaganiyorke.com"
+    ],
+    "addresses": [
+      {
+        "city": "Dallas",
+        "name": "Billing",
+        "state": "Texas",
+        "address": null,
+        "country": "United States",
+        "zipcode": "",
+        "billing_address": true,
+        "contact_datum_id": 4868798
+      }
+    ],
+    "named_contacts": [],
+    "notes": [],
+    "apollo_enrichment": {
+      "industry": "financial services",
+      "estimated_employees": 8,
+      "founded_year": null,
+      "linkedin_url": "http://www.linkedin.com/company/isaganiyorkecapitalpartners",
+      "description": "Dallas-based boutique financial advisory firm specializing in lower middle market companies (fractional CFO, M&A advisory)."
+    }
+  },
+  {
+    "productive_id": "1194238",
+    "name": "jemmic",
+    "billing_name": "jemmic",
+    "vat": "LU23122604",
+    "default_currency": "EUR",
+    "domain": "jemmic.com",
+    "company_code": "JEMMIC",
+    "created_at": "2025-11-09T16:20:54.601+01:00",
+    "productive_type_tag": [
+      "Client"
+    ],
+    "has_invoices_in_productive": true,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 10,
+    "emails": [
+      "jerome.muller@jemmic.com"
+    ],
+    "phones": [],
+    "websites": [
+      "http://www.jemmic.com"
+    ],
+    "addresses": [
+      {
+        "city": "Hesperange",
+        "name": "Billing",
+        "state": "Luxembourg District",
+        "address": null,
+        "country": "Luxembourg",
+        "zipcode": "5959",
+        "billing_address": true,
+        "contact_datum_id": 3631628
+      }
+    ],
+    "named_contacts": [
+      {
+        "first_name": "Jerome",
+        "last_name": "Muller",
+        "email": "jerome.muller@jemmic.com"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "productive_id": "1318566",
+    "name": "Jeremy Gudac",
+    "billing_name": "jeremygudac.com",
+    "vat": "",
+    "default_currency": "USD",
+    "domain": "jeremygudac.com",
+    "company_code": "JRMG",
+    "created_at": "2026-04-09T11:08:21.214+02:00",
+    "productive_type_tag": [
+      "Lead"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": 10,
+    "emails": [
+      "wulvynstudio@gmail.com"
+    ],
+    "phones": [],
+    "websites": [
+      "jeremygudac.com"
+    ],
+    "addresses": [
+      {
+        "city": "",
+        "name": "Billing",
+        "state": "Utah",
+        "address": null,
+        "country": "United States",
+        "zipcode": "",
+        "billing_address": true,
+        "contact_datum_id": 4353191
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1312189",
+    "name": "Kaizntree",
+    "billing_name": null,
+    "vat": null,
+    "default_currency": null,
+    "domain": null,
+    "company_code": "KAIZ",
+    "created_at": "2026-03-30T12:45:45.154+02:00",
+    "productive_type_tag": [
+      "Client"
+    ],
+    "has_invoices_in_productive": true,
+    "tag_list": [],
+    "due_days": null,
+    "emails": [],
+    "phones": [],
+    "websites": [],
+    "addresses": [],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1198067",
+    "name": "La-Royale",
+    "billing_name": "La-Royale",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "la-royale.com",
+    "company_code": "La-Royale",
+    "created_at": "2025-11-13T14:33:12.157+01:00",
+    "productive_type_tag": [
+      "Client"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 15,
+    "emails": [
+      "compta@la-royale.com"
+    ],
+    "phones": [
+      "+352 55 96 44"
+    ],
+    "websites": [
+      "http://www.la-royale.com"
+    ],
+    "addresses": [
+      {
+        "city": "Sanem",
+        "name": "Billing",
+        "state": "District de Luxembourg",
+        "address": null,
+        "country": "Luxembourg",
+        "zipcode": "4984",
+        "billing_address": true,
+        "contact_datum_id": 3647628
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1470785",
+    "name": "Land zum Leben Merzig-Wadern e.V.",
+    "billing_name": "Lokale Aktionsgruppe \"Land zum Leben Merzig-Wadern e.V.\"",
+    "vat": null,
+    "default_currency": "EUR",
+    "domain": null,
+    "company_code": "LAND",
+    "created_at": "2026-07-30T17:28:46.151+02:00",
+    "productive_type_tag": [
+      "Lead"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": 30,
+    "emails": [
+      "s.prommenschenkel@merzig-wadern.de"
+    ],
+    "phones": [
+      "+49 6861 80 4758"
+    ],
+    "websites": [
+      "merzig-wadern.de",
+      "landzumleben.mzg.de"
+    ],
+    "addresses": [
+      {
+        "city": "Merzig",
+        "name": "Billing",
+        "state": "",
+        "address": "Bahnhofstrasse 27, ",
+        "country": "Germany",
+        "zipcode": "66663",
+        "billing_address": true,
+        "contact_datum_id": 5084209
+      }
+    ],
+    "named_contacts": [
+      {
+        "first_name": "Susanne",
+        "last_name": "Prommenschenkel",
+        "email": "s.prommenschenkel@merzig-wadern.de"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "productive_id": "1445827",
+    "name": "LetzToken",
+    "billing_name": "LetzToken",
+    "vat": "LU33120132",
+    "default_currency": "EUR",
+    "domain": null,
+    "company_code": "LETZ",
+    "created_at": "2026-07-16T16:11:53.623+02:00",
+    "productive_type_tag": [
+      "Lead"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": null,
+    "emails": [
+      "Jamey@letztoken.com",
+      "contact@letztoken.com"
+    ],
+    "phones": [],
+    "websites": [],
+    "addresses": [
+      {
+        "city": "Luxembourg",
+        "name": "Billing",
+        "state": null,
+        "address": "7, rue Robert Stümper",
+        "country": "Luxembourg",
+        "zipcode": "L-2557 ",
+        "billing_address": true,
+        "contact_datum_id": 4981726
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1192465",
+    "name": "Luxembourg National Data Service (LNDS)",
+    "billing_name": "Luxembourg National Data Service (LNDS)",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "lnds.lu",
+    "company_code": "LUXE",
+    "created_at": "2025-11-05T17:11:09.420+01:00",
+    "productive_type_tag": [
+      "Lead"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 15,
+    "emails": [
+      "rose.pasigna@lnds.lu",
+      "sandorpaul10@gmail.com",
+      "sandorpaul10@gmail.com"
+    ],
+    "phones": [
+      "(+352) 621 574 325",
+      "+40 774 494 011"
+    ],
+    "websites": [
+      "http://www.lnds.lu"
+    ],
+    "addresses": [
+      {
+        "city": "Esch-sur-Alzette",
+        "name": "Billing",
+        "state": "Luxembourg",
+        "address": null,
+        "country": "Luxembourg",
+        "zipcode": "4362",
+        "billing_address": true,
+        "contact_datum_id": 3620874
+      }
+    ],
+    "named_contacts": [],
+    "notes": [
+      "il contatto Paul Sandor risultava per errore anche qui: e' in realta' un freelancer di TINKR pagato a progetto, spostato li"
+    ]
+  },
+  {
+    "productive_id": "1185216",
+    "name": "MaPS System",
+    "billing_name": "MaPS System S.A.",
+    "vat": "LU25066743",
+    "default_currency": "EUR",
+    "domain": null,
+    "company_code": "MAPS",
+    "created_at": "2025-10-30T11:04:11.986+01:00",
+    "productive_type_tag": [
+      "Client"
+    ],
+    "has_invoices_in_productive": true,
+    "tag_list": [],
+    "due_days": 10,
+    "emails": [
+      "compta@maps-system.com"
+    ],
+    "phones": [],
+    "websites": [
+      "maps-system.com"
+    ],
+    "addresses": [
+      {
+        "city": "Foetz",
+        "name": "Billing",
+        "state": null,
+        "address": "12, Rue de l'industrie",
+        "country": "Luxembourg",
+        "zipcode": "3895",
+        "billing_address": true,
+        "contact_datum_id": 3584451
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1381322",
+    "name": "Margin Health",
+    "billing_name": "Margin Health",
+    "vat": null,
+    "default_currency": "USD",
+    "domain": null,
+    "company_code": "MARG",
+    "created_at": "2026-06-04T13:39:11.219+02:00",
+    "productive_type_tag": [
+      "Lead"
+    ],
+    "has_invoices_in_productive": true,
+    "tag_list": [],
+    "due_days": 10,
+    "emails": [],
+    "phones": [],
+    "websites": [],
+    "addresses": [],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1431502",
+    "name": "Michael Jennings",
+    "billing_name": "Michael Jennings",
+    "vat": null,
+    "default_currency": "USD",
+    "domain": null,
+    "company_code": "JENNINGS",
+    "created_at": "2026-07-03T16:08:28.571+02:00",
+    "productive_type_tag": [
+      "Lead"
+    ],
+    "has_invoices_in_productive": true,
+    "tag_list": [],
+    "due_days": null,
+    "emails": [
+      "michaelkjennings@gmail.com"
+    ],
+    "phones": [
+      "415-846-6934"
+    ],
+    "websites": [
+      "https://www.michaelkjennings.com/"
+    ],
+    "addresses": [],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1308890",
+    "name": "MNAHA",
+    "billing_name": "Musée national d'archéologie, d'histoire et d'art",
+    "vat": null,
+    "default_currency": "EUR",
+    "domain": "mnaha.lu",
+    "company_code": "MNAH",
+    "created_at": "2026-03-25T10:41:12.592+01:00",
+    "productive_type_tag": [
+      "Lead"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": 10,
+    "emails": [],
+    "phones": [
+      "+352 47 93 30 1"
+    ],
+    "websites": [
+      "https://www.mnaha.lu"
+    ],
+    "addresses": [
+      {
+        "city": "Luxembourg",
+        "name": "Main",
+        "state": null,
+        "address": "Place Marché-aux-Poissons",
+        "country": "Luxembourg",
+        "zipcode": "2345",
+        "billing_address": false,
+        "contact_datum_id": 4263303
+      }
+    ],
+    "named_contacts": [],
+    "notes": [],
+    "apollo_enrichment": {
+      "industry": "museums & institutions",
+      "estimated_employees": 38,
+      "founded_year": 1939,
+      "linkedin_url": "http://www.linkedin.com/company/mnaha",
+      "description": "Musee national d'archeologie, d'histoire et d'art, institut culturel de l'Etat luxembourgeois."
+    }
+  },
+  {
+    "productive_id": "1311973",
+    "name": "Omer Pozner",
+    "billing_name": "Omer Pozner",
+    "vat": null,
+    "default_currency": "USD",
+    "domain": null,
+    "company_code": "OMER",
+    "created_at": "2026-03-30T09:59:43.618+02:00",
+    "productive_type_tag": [
+      "Client"
+    ],
+    "has_invoices_in_productive": true,
+    "tag_list": [],
+    "due_days": 10,
+    "emails": [
+      "opozner@gmail.com"
+    ],
+    "phones": [
+      "+1-917-392-3509"
+    ],
+    "websites": [],
+    "addresses": [
+      {
+        "city": "San Francisco",
+        "name": "Billing",
+        "state": "California",
+        "address": "125 Guerrero St, Apt 7",
+        "country": "United States",
+        "zipcode": "94103",
+        "billing_address": true,
+        "contact_datum_id": 4364912
+      }
+    ],
+    "named_contacts": [
+      {
+        "first_name": "Omer",
+        "last_name": "Pozner",
+        "email": "opozner@gmail.com"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "productive_id": "1244915",
+    "name": "PS CarWash",
+    "billing_name": "PS CarWash",
+    "vat": null,
+    "default_currency": "EUR",
+    "domain": null,
+    "company_code": "PSCA",
+    "created_at": "2026-01-13T14:40:18.804+01:00",
+    "productive_type_tag": [
+      "Lead"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": 30,
+    "emails": [
+      "Info.pscarwash@gmail.com"
+    ],
+    "phones": [],
+    "websites": [],
+    "addresses": [],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1213078",
+    "name": "Ristorante La Caserma",
+    "billing_name": "Ristorante Pizzeria La Caserma",
+    "vat": "04295080404",
+    "default_currency": "EUR",
+    "domain": null,
+    "company_code": "CASERMA",
+    "created_at": "2025-11-29T11:00:55.632+01:00",
+    "productive_type_tag": [
+      "Client"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": 30,
+    "emails": [],
+    "phones": [
+      "+39 0541 750597"
+    ],
+    "websites": [],
+    "addresses": [
+      {
+        "city": "Rimini",
+        "name": "Billing",
+        "state": null,
+        "address": "Via Marecchiese, 535",
+        "country": "Italy",
+        "zipcode": "47922",
+        "billing_address": true,
+        "contact_datum_id": 3696816
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1308936",
+    "name": "RMK",
+    "billing_name": "RMK Industries LLC",
+    "vat": null,
+    "default_currency": "EUR",
+    "domain": "rmk.ae",
+    "company_code": "RMKX",
+    "created_at": "2026-03-25T11:25:18.079+01:00",
+    "productive_type_tag": [
+      "Lead"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": 10,
+    "emails": [],
+    "phones": [
+      "+971 4 347 5131"
+    ],
+    "websites": [
+      "https://rmk.ae"
+    ],
+    "addresses": [
+      {
+        "city": "Dubai",
+        "name": "Main",
+        "state": null,
+        "address": "Dubai Industrial City",
+        "country": "United Arab Emirates",
+        "zipcode": null,
+        "billing_address": false,
+        "contact_datum_id": 4263450
+      }
+    ],
+    "named_contacts": [],
+    "notes": [
+      "Apollo indica il dominio primario come rmkindustries.com (non rmk.ae), ma telefono e indirizzo corrispondono esattamente al record Productive, e' la stessa azienda."
+    ],
+    "apollo_enrichment": {
+      "industry": "mining & metals / building materials",
+      "estimated_employees": 72,
+      "founded_year": 1981,
+      "linkedin_url": "http://www.linkedin.com/company/rmkindustriesllc",
+      "description": "RMK Industries LLC, produttore di pannelli in alluminio composito (ACM/ACP), sede Dubai."
+    }
+  },
+  {
+    "productive_id": "1325134",
+    "name": "Seadog Design",
+    "billing_name": "Resolv Protocol, Inc",
+    "vat": "93-1900655",
+    "default_currency": "USD",
+    "domain": "seadog.design",
+    "company_code": "SDG",
+    "created_at": "2026-04-19T09:58:56.720+02:00",
+    "productive_type_tag": [
+      "Client"
+    ],
+    "has_invoices_in_productive": true,
+    "tag_list": [],
+    "due_days": 10,
+    "emails": [
+      "will@seadog.design"
+    ],
+    "phones": [],
+    "websites": [
+      "seadog.design"
+    ],
+    "addresses": [
+      {
+        "city": "New Castle",
+        "name": "Billing",
+        "state": "DE",
+        "address": "128 Sunset Blvd",
+        "country": "United States",
+        "zipcode": "19720",
+        "billing_address": true,
+        "contact_datum_id": 4399896
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1198068",
+    "name": "Sita Gastronomia Italiana",
+    "billing_name": "Sita Gastronomia Italiana",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "sitadis.be",
+    "company_code": "Sita Gastronomia Italiana",
+    "created_at": "2025-11-13T14:33:34.191+01:00",
+    "productive_type_tag": [
+      "Client"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 15,
+    "emails": [],
+    "phones": [
+      "+32 71 89 90 90"
+    ],
+    "websites": [
+      "http://www.sitadis.be"
+    ],
+    "addresses": [
+      {
+        "city": "Courcelles",
+        "name": "Billing",
+        "state": "Walloon Region",
+        "address": null,
+        "country": "Belgium",
+        "zipcode": "6180",
+        "billing_address": true,
+        "contact_datum_id": 3647634
+      }
+    ],
+    "named_contacts": [],
+    "notes": [],
+    "apollo_enrichment": {
+      "industry": "wholesale / food production / import-export",
+      "estimated_employees": 53,
+      "founded_year": 1958,
+      "linkedin_url": "http://www.linkedin.com/company/sitagastronomia",
+      "description": "Specialista della gastronomia italiana in Belgio: importazione, distribuzione e consulenza per il settore horeca."
+    }
+  },
+  {
+    "productive_id": "1310907",
+    "name": "Standd",
+    "billing_name": "Standd",
+    "vat": null,
+    "default_currency": "USD",
+    "domain": "standd.io",
+    "company_code": "STAN",
+    "created_at": "2026-03-27T21:48:12.716+01:00",
+    "productive_type_tag": [
+      "Lead"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": 10,
+    "emails": [],
+    "phones": [
+      "+1 314-496-1092"
+    ],
+    "websites": [
+      "https://standd.io"
+    ],
+    "addresses": [
+      {
+        "city": "Washington",
+        "name": "Main",
+        "state": null,
+        "address": "Washington, DC",
+        "country": "United States",
+        "zipcode": null,
+        "billing_address": false,
+        "contact_datum_id": 4277277
+      }
+    ],
+    "named_contacts": [],
+    "notes": [],
+    "apollo_enrichment": {
+      "industry": "information technology & services / computer software",
+      "estimated_employees": 5,
+      "founded_year": 2022,
+      "linkedin_url": "http://www.linkedin.com/company/standd",
+      "description": "Piattaforma SaaS AI-native per due diligence e deal management (M&A, VC)."
+    }
+  },
+  {
+    "productive_id": "1206333",
+    "name": "Steinberg Protocol",
+    "billing_name": "Steinberg Protocol",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "steinberg.global",
+    "company_code": "STEINBERG",
+    "created_at": "2025-11-24T10:34:18.027+01:00",
+    "productive_type_tag": [
+      "Lead"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 30,
+    "emails": [],
+    "phones": [],
+    "websites": [
+      "http://www.steinberg.global"
+    ],
+    "addresses": [
+      {
+        "city": "Jakarta",
+        "name": "Billing",
+        "state": "Jakarta",
+        "address": null,
+        "country": "Indonesia",
+        "zipcode": "",
+        "billing_address": true,
+        "contact_datum_id": 3672483
+      }
+    ],
+    "named_contacts": [],
+    "notes": [],
+    "apollo_enrichment": {
+      "industry": "management consulting",
+      "estimated_employees": 4,
+      "founded_year": null,
+      "linkedin_url": "http://www.linkedin.com/company/steinberg-protocol",
+      "description": "Venture studio e investment firm per progetti a impatto economico/sociale/ambientale."
+    }
+  },
+  {
+    "productive_id": "1312190",
+    "name": "Style Supply",
+    "billing_name": null,
+    "vat": null,
+    "default_currency": null,
+    "domain": null,
+    "company_code": "STYL",
+    "created_at": "2026-03-30T12:45:47.379+02:00",
+    "productive_type_tag": [
+      "Lead"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": null,
+    "emails": [],
+    "phones": [],
+    "websites": [],
+    "addresses": [],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1315967",
+    "name": "The Arc / FlourishLab",
+    "billing_name": null,
+    "vat": null,
+    "default_currency": null,
+    "domain": null,
+    "company_code": "THEA",
+    "created_at": "2026-04-04T18:29:03.790+02:00",
+    "productive_type_tag": [
+      "Client"
+    ],
+    "has_invoices_in_productive": true,
+    "tag_list": [],
+    "due_days": null,
+    "emails": [],
+    "phones": [],
+    "websites": [],
+    "addresses": [],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1312168",
+    "name": "The Human Architect",
+    "billing_name": null,
+    "vat": null,
+    "default_currency": null,
+    "domain": null,
+    "company_code": "THEH",
+    "created_at": "2026-03-30T12:17:12.521+02:00",
+    "productive_type_tag": [
+      "Lead"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": null,
+    "emails": [],
+    "phones": [],
+    "websites": [],
+    "addresses": [],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1382275",
+    "name": "TP Quants",
+    "billing_name": "TP Quants",
+    "vat": "LU37446946",
+    "default_currency": "EUR",
+    "domain": null,
+    "company_code": "TPQU",
+    "created_at": "2026-06-05T16:28:55.324+02:00",
+    "productive_type_tag": [
+      "Lead"
+    ],
+    "has_invoices_in_productive": true,
+    "tag_list": [],
+    "due_days": 10,
+    "emails": [
+      "nicolas.jeangeorges@tpquants.com"
+    ],
+    "phones": [],
+    "websites": [],
+    "addresses": [
+      {
+        "city": "Strassen",
+        "name": "Billing",
+        "state": "Luxembourg",
+        "address": "37, rue du X Septembre",
+        "country": "Luxembourg",
+        "zipcode": "8048",
+        "billing_address": true,
+        "contact_datum_id": 4720895
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1198065",
+    "name": "Unicraft VC",
+    "billing_name": "Unicraft VC",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "unicraft.vc",
+    "company_code": "Unicraft VC",
+    "created_at": "2025-11-13T14:32:47.622+01:00",
+    "productive_type_tag": [
+      "Client"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 15,
+    "emails": [],
+    "phones": [],
+    "websites": [
+      "http://www.unicraft.vc"
+    ],
+    "addresses": [
+      {
+        "city": "Paris",
+        "name": "Billing",
+        "state": "Ile-de-France",
+        "address": null,
+        "country": "France",
+        "zipcode": "75007",
+        "billing_address": true,
+        "contact_datum_id": 3647622
+      }
+    ],
+    "named_contacts": [],
+    "notes": [],
+    "apollo_enrichment": {
+      "industry": "venture capital & private equity",
+      "estimated_employees": 6,
+      "founded_year": 2021,
+      "linkedin_url": "http://www.linkedin.com/company/unicraft-vc",
+      "description": "Fondo di investimento seed operativo, coinvestimento e supporto startup."
+    }
+  },
+  {
+    "productive_id": "1303208",
+    "name": "White Canvas Co",
+    "billing_name": "White Canvas Co",
+    "vat": "",
+    "default_currency": "AUD",
+    "domain": "whitecanvasco.com",
+    "company_code": "WHITE",
+    "created_at": "2026-03-17T16:49:07.262+01:00",
+    "productive_type_tag": [
+      "Client"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": 10,
+    "emails": [
+      "elle@whitecanvasco.com"
+    ],
+    "phones": [],
+    "websites": [
+      "http://www.whitecanvasco.com"
+    ],
+    "addresses": [
+      {
+        "city": "Haymarket",
+        "name": "Billing",
+        "state": "New South Wales",
+        "address": null,
+        "country": "Australia",
+        "zipcode": "2000",
+        "billing_address": true,
+        "contact_datum_id": 4225926
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  }
+]

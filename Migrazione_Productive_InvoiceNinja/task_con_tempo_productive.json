@@ -1,0 +1,156 @@
+[
+  {
+    "productive_id": "14534481",
+    "title": "Design services",
+    "project_id": "789405",
+    "worked_minutes": 0,
+    "billable_minutes": 0,
+    "closed": false,
+    "project_name": "MaPS System [Project]",
+    "worked_hours": 0.0,
+    "billable_hours": 0.0
+  },
+  {
+    "productive_id": "14667171",
+    "title": "Post Esch",
+    "project_id": "789324",
+    "worked_minutes": 30,
+    "billable_minutes": 0,
+    "closed": true,
+    "project_name": "Square Studio [Project]",
+    "worked_hours": 0.5,
+    "billable_hours": 0.0
+  },
+  {
+    "productive_id": "14675636",
+    "title": "Dialog",
+    "project_id": "788839",
+    "worked_minutes": 45,
+    "billable_minutes": 45,
+    "closed": true,
+    "project_name": "DSK [Project]",
+    "worked_hours": 0.75,
+    "billable_hours": 0.75
+  },
+  {
+    "productive_id": "14675687",
+    "title": "Button",
+    "project_id": "788839",
+    "worked_minutes": 95,
+    "billable_minutes": 95,
+    "closed": true,
+    "project_name": "DSK [Project]",
+    "worked_hours": 1.58,
+    "billable_hours": 1.58
+  },
+  {
+    "productive_id": "14676113",
+    "title": "Column mamagement",
+    "project_id": "788839",
+    "worked_minutes": 70,
+    "billable_minutes": 70,
+    "closed": true,
+    "project_name": "DSK [Project]",
+    "worked_hours": 1.17,
+    "billable_hours": 1.17
+  },
+  {
+    "productive_id": "14676114",
+    "title": "Filter management",
+    "project_id": "788839",
+    "worked_minutes": 60,
+    "billable_minutes": 60,
+    "closed": true,
+    "project_name": "DSK [Project]",
+    "worked_hours": 1.0,
+    "billable_hours": 1.0
+  },
+  {
+    "productive_id": "14676129",
+    "title": "Mass action (bottom floating bar)",
+    "project_id": "788839",
+    "worked_minutes": 120,
+    "billable_minutes": 120,
+    "closed": true,
+    "project_name": "DSK [Project]",
+    "worked_hours": 2.0,
+    "billable_hours": 2.0
+  },
+  {
+    "productive_id": "14701963",
+    "title": "Fix [Email]",
+    "project_id": "795176",
+    "worked_minutes": 60,
+    "billable_minutes": 0,
+    "closed": true,
+    "project_name": "Orange Week [Project]",
+    "worked_hours": 1.0,
+    "billable_hours": 0.0
+  },
+  {
+    "productive_id": "14740894",
+    "title": "Include DSK screens in the DSK (official) flow",
+    "project_id": "788839",
+    "worked_minutes": 20,
+    "billable_minutes": 20,
+    "closed": true,
+    "project_name": "DSK [Project]",
+    "worked_hours": 0.33,
+    "billable_hours": 0.33
+  },
+  {
+    "productive_id": "14741478",
+    "title": "Application navigation (left menu)",
+    "project_id": "788839",
+    "worked_minutes": 30,
+    "billable_minutes": 30,
+    "closed": true,
+    "project_name": "DSK [Project]",
+    "worked_hours": 0.5,
+    "billable_hours": 0.5
+  },
+  {
+    "productive_id": "14741521",
+    "title": "Move all the flows in the main DSK flow",
+    "project_id": "788839",
+    "worked_minutes": 5,
+    "billable_minutes": 5,
+    "closed": true,
+    "project_name": "DSK [Project]",
+    "worked_hours": 0.08,
+    "billable_hours": 0.08
+  },
+  {
+    "productive_id": "14924037",
+    "title": "Create invoice for the month of November",
+    "project_id": "789324",
+    "worked_minutes": 10,
+    "billable_minutes": 0,
+    "closed": true,
+    "project_name": "Square Studio [Project]",
+    "worked_hours": 0.17,
+    "billable_hours": 0.0
+  },
+  {
+    "productive_id": "15083149",
+    "title": "Add La Caserma",
+    "project_id": "789324",
+    "worked_minutes": 15,
+    "billable_minutes": 0,
+    "closed": true,
+    "project_name": "Square Studio [Project]",
+    "worked_hours": 0.25,
+    "billable_hours": 0.0
+  },
+  {
+    "productive_id": "15083153",
+    "title": "Add TINKR",
+    "project_id": "789324",
+    "worked_minutes": 16,
+    "billable_minutes": 0,
+    "closed": true,
+    "project_name": "Square Studio [Project]",
+    "worked_hours": 0.27,
+    "billable_hours": 0.0
+  }
+]

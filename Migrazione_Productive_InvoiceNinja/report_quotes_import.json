@@ -1,0 +1,302 @@
+{
+  "created": [
+    {
+      "productive_id": "3267021",
+      "invoice_ninja_id": "Wpmbk5ezJn",
+      "number": "0001",
+      "name": "Design system proposal",
+      "client": "Luxembourg National Data Service (LNDS)",
+      "amount": 24000.0,
+      "probability": 0,
+      "closed": true,
+      "marked": null
+    },
+    {
+      "productive_id": "3490520",
+      "invoice_ninja_id": "Opnel5aKBz",
+      "number": "0002",
+      "name": "PS CarWash Launch",
+      "client": "PS CarWash",
+      "amount": 5010.0,
+      "probability": 0,
+      "closed": true,
+      "marked": null
+    },
+    {
+      "productive_id": "3714139",
+      "invoice_ninja_id": "wMvbmOeYAl",
+      "number": "0003",
+      "name": "MNAHA - Landing page Expo Berthe Brincour",
+      "client": "MNAHA",
+      "amount": 5000.0,
+      "probability": 0,
+      "closed": true,
+      "marked": null
+    },
+    {
+      "productive_id": "3714311",
+      "invoice_ninja_id": "4openRe7Az",
+      "number": "0004",
+      "name": "cladbond.com — Full Redesign Squarespace to Framer",
+      "client": "RMK",
+      "amount": 4500.0,
+      "probability": 0,
+      "closed": true,
+      "marked": null
+    },
+    {
+      "productive_id": "3723192",
+      "invoice_ninja_id": "WJxbojagwO",
+      "number": "0005",
+      "name": "Standd - Website Redesign Framer",
+      "client": "Standd",
+      "amount": 4250.0,
+      "probability": 0,
+      "closed": true,
+      "marked": null
+    },
+    {
+      "productive_id": "3725848",
+      "invoice_ninja_id": "k8mep2bMyJ",
+      "number": "0006",
+      "name": "Omer Pozner - Portfolio Website Framer",
+      "client": "Omer Pozner",
+      "amount": 1500.0,
+      "probability": 100,
+      "closed": true,
+      "marked": {
+        "mark_sent": 200,
+        "approve": 200
+      }
+    },
+    {
+      "productive_id": "3725864",
+      "invoice_ninja_id": "l4zbq2dprO",
+      "number": "0007",
+      "name": "The Human Architect - Website Framer (2 Phases)",
+      "client": "The Human Architect",
+      "amount": 6400.0,
+      "probability": 0,
+      "closed": true,
+      "marked": null
+    },
+    {
+      "productive_id": "3725949",
+      "invoice_ninja_id": "yMYerEdOBQ",
+      "number": "0008",
+      "name": "Kaizntree - Framer website",
+      "client": "Kaizntree",
+      "amount": 1500.0,
+      "probability": 100,
+      "closed": true,
+      "marked": {
+        "mark_sent": 200,
+        "approve": 200
+      }
+    },
+    {
+      "productive_id": "3725950",
+      "invoice_ninja_id": "gl9avmeG1v",
+      "number": "0009",
+      "name": "Style Supply — Framer Website",
+      "client": "Style Supply",
+      "amount": 3000.0,
+      "probability": 0,
+      "closed": true,
+      "marked": null
+    },
+    {
+      "productive_id": "3758665",
+      "invoice_ninja_id": "7LDdwRb1YK",
+      "number": "0010",
+      "name": "Good Form - Studio Website",
+      "client": "Good Form",
+      "amount": 4250.0,
+      "probability": 0,
+      "closed": true,
+      "marked": null
+    },
+    {
+      "productive_id": "3761306",
+      "invoice_ninja_id": "JX7ax9byv4",
+      "number": "0011",
+      "name": "FlourishLab — Framer Website",
+      "client": "The Arc / FlourishLab",
+      "amount": 1000.0,
+      "probability": 100,
+      "closed": true,
+      "marked": {
+        "mark_sent": 200,
+        "approve": 200
+      }
+    },
+    {
+      "productive_id": "3769573",
+      "invoice_ninja_id": "kzPdy7aQro",
+      "number": "0012",
+      "name": "WULVYN",
+      "client": "Jeremy Gudac",
+      "amount": 4000.0,
+      "probability": 0,
+      "closed": true,
+      "marked": null
+    },
+    {
+      "productive_id": "3819258",
+      "invoice_ninja_id": "mxkazYeJ0P",
+      "number": "0013",
+      "name": "CMB Studio - Framer website",
+      "client": "CMB Studio",
+      "amount": 2000.0,
+      "probability": 100,
+      "closed": true,
+      "marked": {
+        "mark_sent": 200,
+        "approve": 200
+      }
+    },
+    {
+      "productive_id": "3884359",
+      "invoice_ninja_id": "4w9aAOdvMR",
+      "number": "0014",
+      "name": "KYIP CAPITAL - Framer",
+      "client": "April™",
+      "amount": 1000.0,
+      "probability": 100,
+      "closed": true,
+      "marked": {
+        "mark_sent": 200,
+        "approve": 200
+      }
+    },
+    {
+      "productive_id": "3906169",
+      "invoice_ninja_id": "X46dBXa79j",
+      "number": "0015",
+      "name": "Charmstone Digital - Framer website",
+      "client": "Charmstone Digital",
+      "amount": 2975.0,
+      "probability": 0,
+      "closed": true,
+      "marked": null
+    },
+    {
+      "productive_id": "3915216",
+      "invoice_ninja_id": "oBDbDxbl2E",
+      "number": "0016",
+      "name": "Credit Klub",
+      "client": "Credit Klub",
+      "amount": 3500.0,
+      "probability": 100,
+      "closed": true,
+      "marked": {
+        "mark_sent": 200,
+        "approve": 200
+      }
+    },
+    {
+      "productive_id": "3958630",
+      "invoice_ninja_id": "K4oeEva0By",
+      "number": "0017",
+      "name": "Margin Health - Framer website",
+      "client": "Margin Health",
+      "amount": 3500.0,
+      "probability": 100,
+      "closed": true,
+      "marked": {
+        "mark_sent": 200,
+        "approve": 200
+      }
+    },
+    {
+      "productive_id": "3961786",
+      "invoice_ninja_id": "xYRdG7dDzO",
+      "number": "0018",
+      "name": "TP Quants - Framer website",
+      "client": "TP Quants",
+      "amount": 2500.0,
+      "probability": 100,
+      "closed": true,
+      "marked": {
+        "mark_sent": 200,
+        "approve": 200
+      }
+    },
+    {
+      "productive_id": "3979722",
+      "invoice_ninja_id": "1YQdJ2dOGp",
+      "number": "0019",
+      "name": "Kaizntree - Framer website",
+      "client": "Kaizntree",
+      "amount": 1250.0,
+      "probability": 100,
+      "closed": true,
+      "marked": {
+        "mark_sent": 200,
+        "approve": 200
+      }
+    },
+    {
+      "productive_id": "4022039",
+      "invoice_ninja_id": "4y1aKReQGw",
+      "number": "0020",
+      "name": "Isagani Yorke - Framer website",
+      "client": "Isagani Yorke Capital Partners",
+      "amount": 6750.0,
+      "probability": 50,
+      "closed": false,
+      "marked": null
+    },
+    {
+      "productive_id": "4057112",
+      "invoice_ninja_id": "q9wdLwbjPX",
+      "number": "0021",
+      "name": "Michael Jennings - Framer website",
+      "client": "Michael Jennings",
+      "amount": 2250.0,
+      "probability": 100,
+      "closed": true,
+      "marked": {
+        "mark_sent": 200,
+        "approve": 200
+      }
+    },
+    {
+      "productive_id": "4084591",
+      "invoice_ninja_id": "7N1aMAaWmp",
+      "number": "0022",
+      "name": "Design system creation",
+      "client": "LetzToken",
+      "amount": 6300.0,
+      "probability": 50,
+      "closed": false,
+      "marked": null
+    },
+    {
+      "productive_id": "4122911",
+      "invoice_ninja_id": "QJ0dN6dLOv",
+      "number": "0023",
+      "name": "Brennertage 2026",
+      "client": "Land zum Leben Merzig-Wadern e.V.",
+      "amount": 400.0,
+      "probability": 50,
+      "closed": false,
+      "marked": null
+    }
+  ],
+  "skipped_existing": [],
+  "skipped_no_client": [],
+  "errors": [],
+  "marked": [
+    "3725848",
+    "3725949",
+    "3761306",
+    "3819258",
+    "3884359",
+    "3915216",
+    "3958630",
+    "3961786",
+    "3979722",
+    "4057112"
+  ]
+}

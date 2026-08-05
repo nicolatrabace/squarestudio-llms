@@ -1,0 +1,86 @@
+{
+    "data": [
+        {
+            "id": "l4zbq2dprO",
+            "num_days": 90,
+            "name": "Net 90",
+            "is_deleted": false,
+            "created_at": 1785847581,
+            "updated_at": 1785847581,
+            "archived_at": 0
+        },
+        {
+            "id": "k8mep2bMyJ",
+            "num_days": 60,
+            "name": "Net 60",
+            "is_deleted": false,
+            "created_at": 1785847581,
+            "updated_at": 1785847581,
+            "archived_at": 0
+        },
+        {
+            "id": "WJxbojagwO",
+            "num_days": 30,
+            "name": "Net 30",
+            "is_deleted": false,
+            "created_at": 1785847581,
+            "updated_at": 1785847581,
+            "archived_at": 0
+        },
+        {
+            "id": "4openRe7Az",
+            "num_days": 15,
+            "name": "Net 15",
+            "is_deleted": false,
+            "created_at": 1785847581,
+            "updated_at": 1785847581,
+            "archived_at": 0
+        },
+        {
+            "id": "wMvbmOeYAl",
+            "num_days": 14,
+            "name": "Net 14",
+            "is_deleted": false,
+            "created_at": 1785847581,
+            "updated_at": 1785847581,
+            "archived_at": 0
+        },
+        {
+            "id": "Opnel5aKBz",
+            "num_days": 10,
+            "name": "Net 10",
+            "is_deleted": false,
+            "created_at": 1785847581,
+            "updated_at": 1785847581,
+            "archived_at": 0
+        },
+        {
+            "id": "Wpmbk5ezJn",
+            "num_days": 7,
+            "name": "Net 7",
+            "is_deleted": false,
+            "created_at": 1785847581,
+            "updated_at": 1785847581,
+            "archived_at": 0
+        },
+        {
+            "id": "VolejRejNm",
+            "num_days": 0,
+            "name": "Net 0",
+            "is_deleted": false,
+            "created_at": 1785847581,
+            "updated_at": 1785847581,
+            "archived_at": 0
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "total": 8,
+            "count": 8,
+            "per_page": 20,
+            "current_page": 1,
+            "total_pages": 1,
+            "links": {}
+        }
+    }
+}

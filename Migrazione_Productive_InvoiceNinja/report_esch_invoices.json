@@ -1,0 +1,121 @@
+{
+  "archived_projects": [
+    "Kaizntree",
+    "Flourishlab",
+    "Margin Health - Project"
+  ],
+  "created_invoices": [
+    {
+      "number": "2025-BC-04082",
+      "id": "yJrb2KdWLD",
+      "amount": 702.0,
+      "expected": 702.0,
+      "match": true,
+      "po_number": "2025/04082 WIAN",
+      "balance": 702,
+      "status_id": "2"
+    },
+    {
+      "number": "2025-BC-06557",
+      "id": "GELe3Mb698",
+      "amount": 702.0,
+      "expected": 702.0,
+      "match": true,
+      "po_number": "2025/06557 WIAN",
+      "balance": 702,
+      "status_id": "2"
+    },
+    {
+      "number": "2025-19",
+      "id": "KGRb41dBLZ",
+      "amount": 117.0,
+      "expected": 117.0,
+      "match": true,
+      "po_number": "2025/07554 WIAN",
+      "balance": 117,
+      "status_id": "2"
+    },
+    {
+      "number": "2025-BC-07599",
+      "id": "qM7e5Ba2vp",
+      "amount": 1404.0,
+      "expected": 1404.0,
+      "match": true,
+      "po_number": "2025/07599 WIAN",
+      "balance": 1404,
+      "status_id": "2"
+    },
+    {
+      "number": "2025-BC-08419",
+      "id": "QK9b6nbEvY",
+      "amount": 544.05,
+      "expected": 544.05,
+      "match": true,
+      "po_number": "2025/08419 WIAN",
+      "balance": 544.05,
+      "status_id": "2"
+    }
+  ],
+  "skipped": [],
+  "errors": [],
+  "warnings": [],
+  "esch_summary": {
+    "client": "Esch ville",
+    "invoices_created": [
+      "2025-BC-04082",
+      "2025-BC-06557",
+      "2025-19",
+      "2025-BC-07599",
+      "2025-BC-08419"
+    ],
+    "total_ttc_created": 3469.05,
+    "note": "Solo 2025-19 ha numero ufficiale fattura; le altre usano prefisso 2025-BC-* dal bon de commande — da confermare"
+  },
+  "payments": {
+    "paid": [
+      {
+        "number": "2025-BC-04082",
+        "payment_id": "kQBeXWdyK8",
+        "amount": 702.0,
+        "status_id": "4",
+        "balance": 0,
+        "paid_to_date": 702
+      },
+      {
+        "number": "2025-BC-06557",
+        "payment_id": "W4QbYKezqM",
+        "amount": 702.0,
+        "status_id": "4",
+        "balance": 0,
+        "paid_to_date": 702
+      },
+      {
+        "number": "2025-BC-07599",
+        "payment_id": "joQeZJepZV",
+        "amount": 1404.0,
+        "status_id": "4",
+        "balance": 0,
+        "paid_to_date": 1404
+      },
+      {
+        "number": "2025-19",
+        "payment_id": "EKQe1RaJYv",
+        "amount": 117.0,
+        "status_id": "4",
+        "balance": 0,
+        "paid_to_date": 117
+      },
+      {
+        "number": "2025-BC-08419",
+        "payment_id": "yJrb2KdWLD",
+        "amount": 544.05,
+        "status_id": "4",
+        "balance": 0,
+        "paid_to_date": 544.05
+      }
+    ],
+    "skipped": [],
+    "errors": []
+  },
+  "all_marked_paid": true
+}

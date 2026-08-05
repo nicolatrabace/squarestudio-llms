@@ -1,0 +1,777 @@
+[
+  {
+    "productive_id": "1213173",
+    "name": "Apollo.io",
+    "billing_name": "Apollo.io",
+    "vat": "123456789",
+    "default_currency": "USD",
+    "domain": "apollo.io",
+    "company_code": "APOLLO",
+    "created_at": "2025-11-30T13:02:35.966+01:00",
+    "productive_type_tag": [
+      "Vendor"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 30,
+    "emails": [],
+    "phones": [],
+    "websites": [
+      "http://www.apollo.io"
+    ],
+    "addresses": [
+      {
+        "city": "San Francisco",
+        "name": "Billing",
+        "state": "California",
+        "address": null,
+        "country": "United States",
+        "zipcode": "94105",
+        "billing_address": true,
+        "contact_datum_id": 3697456
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1233264",
+    "name": "awwwards.",
+    "billing_name": "awwwards.",
+    "vat": "ESB97063440",
+    "default_currency": "EUR",
+    "domain": "awwwards.com",
+    "company_code": "awwwards.",
+    "created_at": "2025-12-23T10:22:27.717+01:00",
+    "productive_type_tag": [
+      "Vendor"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 30,
+    "emails": [],
+    "phones": [],
+    "websites": [
+      "http://www.awwwards.com"
+    ],
+    "addresses": [
+      {
+        "city": "Valencia",
+        "name": "Billing",
+        "state": "Valencian Community",
+        "address": null,
+        "country": "Spain",
+        "zipcode": "46010",
+        "billing_address": true,
+        "contact_datum_id": 3793674
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1206332",
+    "name": "BGL BNP Paribas",
+    "billing_name": "BGL BNP Paribas",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "bgl.lu",
+    "company_code": "BGL BNP Paribas",
+    "created_at": "2025-11-24T10:32:38.268+01:00",
+    "productive_type_tag": [
+      "Vendor"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 15,
+    "emails": [],
+    "phones": [
+      "+352 42 421"
+    ],
+    "websites": [
+      "http://www.bgl.lu"
+    ],
+    "addresses": [
+      {
+        "city": "Luxembourg City",
+        "name": "Billing",
+        "state": "Luxembourg",
+        "address": null,
+        "country": "Luxembourg",
+        "zipcode": "1855",
+        "billing_address": true,
+        "contact_datum_id": 3672473
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1299436",
+    "name": "C&S Associés - Fiduciaire Comptable",
+    "billing_name": "C&S Associés - Fiduciaire Comptable",
+    "vat": "LU33261825",
+    "default_currency": "EUR",
+    "domain": "cs-associes.lu",
+    "company_code": "CES",
+    "created_at": "2026-03-13T15:48:36.349+01:00",
+    "productive_type_tag": [
+      "Burocracy"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": 30,
+    "emails": [
+      "secretariat@cs-associes.lu"
+    ],
+    "phones": [
+      "+352661919127"
+    ],
+    "websites": [
+      "http://www.cs-associes.lu"
+    ],
+    "addresses": [
+      {
+        "city": "Esch-sur-Alzette",
+        "name": "Billing",
+        "state": "Luxembourg",
+        "address": null,
+        "country": "Luxembourg",
+        "zipcode": "4051",
+        "billing_address": true,
+        "contact_datum_id": 4206540
+      }
+    ],
+    "named_contacts": [
+      {
+        "first_name": "Esther",
+        "last_name": "Lang",
+        "email": "secretariat@cs-associes.lu"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "productive_id": "1184461",
+    "name": "Denisa Zaharia (Freelancer)",
+    "billing_name": "Denisa Zaharia (Freelancer)",
+    "vat": null,
+    "default_currency": null,
+    "domain": null,
+    "company_code": "DENI",
+    "created_at": "2025-10-29T09:26:48.827+01:00",
+    "productive_type_tag": [
+      "Contractor"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": null,
+    "emails": [],
+    "phones": [],
+    "websites": [],
+    "addresses": [],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1209266",
+    "name": "DEUUX",
+    "billing_name": "DEUUX",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "deuux.lu",
+    "company_code": "DEUUX",
+    "created_at": "2025-11-26T10:43:59.283+01:00",
+    "productive_type_tag": [
+      "Contractor"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 30,
+    "emails": [],
+    "phones": [],
+    "websites": [
+      "http://www.deuux.lu"
+    ],
+    "addresses": [
+      {
+        "city": "Mamer",
+        "name": "Billing",
+        "state": "Luxembourg District",
+        "address": null,
+        "country": "Luxembourg",
+        "zipcode": "8279",
+        "billing_address": true,
+        "contact_datum_id": 3683017
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1198070",
+    "name": "Figma",
+    "billing_name": "Figma",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "figma.com",
+    "company_code": "Figma",
+    "created_at": "2025-11-13T14:36:14.388+01:00",
+    "productive_type_tag": [
+      "Vendor"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 15,
+    "emails": [
+      "support@figma.com"
+    ],
+    "phones": [
+      "+1 415-890-5404"
+    ],
+    "websites": [
+      "http://www.figma.com"
+    ],
+    "addresses": [
+      {
+        "city": "San Francisco",
+        "name": "Billing",
+        "state": "California",
+        "address": null,
+        "country": "United States",
+        "zipcode": "94102-2300",
+        "billing_address": true,
+        "contact_datum_id": 3647644
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1207239",
+    "name": "Framer B.V.",
+    "billing_name": "Framer",
+    "vat": "NL853695386B01",
+    "default_currency": "USD",
+    "domain": null,
+    "company_code": "FRAMER",
+    "created_at": "2025-11-25T10:02:49.364+01:00",
+    "productive_type_tag": [
+      "Vendor"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": 30,
+    "emails": [],
+    "phones": [],
+    "websites": [],
+    "addresses": [
+      {
+        "city": "Amsterdam",
+        "name": "Billing",
+        "state": null,
+        "address": "Rozengracht 207B",
+        "country": "Netherlands",
+        "zipcode": "1016LZ",
+        "billing_address": true,
+        "contact_datum_id": 3676912
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1213172",
+    "name": "Gandi",
+    "billing_name": "Gandi",
+    "vat": "LU26141926",
+    "default_currency": "EUR",
+    "domain": "gandi.net",
+    "company_code": "GANDI",
+    "created_at": "2025-11-30T12:56:46.116+01:00",
+    "productive_type_tag": [
+      "Vendor"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 30,
+    "emails": [],
+    "phones": [
+      "+33 1 70 37 76 61"
+    ],
+    "websites": [
+      "http://www.gandi.net"
+    ],
+    "addresses": [
+      {
+        "city": "Bertrange",
+        "name": "Billing",
+        "state": "Luxembourg",
+        "address": "7 rue des Mérovingiens",
+        "country": "Luxembourg",
+        "zipcode": "8070",
+        "billing_address": true,
+        "contact_datum_id": 3697452
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1207213",
+    "name": "Gulf Petroleum (Luxembourg) SA",
+    "billing_name": "Gulf Petroleum (Luxembourg) SA",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "gulf.lu",
+    "company_code": "Gulf Petroleum (Luxembourg) SA",
+    "created_at": "2025-11-25T09:08:32.855+01:00",
+    "productive_type_tag": [
+      "Vendor"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 15,
+    "emails": [],
+    "phones": [
+      "+352 92 92 92 33"
+    ],
+    "websites": [
+      "http://www.gulf.lu"
+    ],
+    "addresses": [
+      {
+        "city": "Clervaux",
+        "name": "Billing",
+        "state": "Diekirch",
+        "address": null,
+        "country": "Luxembourg",
+        "zipcode": "9764",
+        "billing_address": true,
+        "contact_datum_id": 3676722
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1206337",
+    "name": "House of Entrepreneurship Luxembourg",
+    "billing_name": "House of Entrepreneurship Luxembourg",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "houseofentrepreneurship.lu",
+    "company_code": "House of Entrepreneurship Luxembourg",
+    "created_at": "2025-11-24T10:36:18.059+01:00",
+    "productive_type_tag": [
+      "Burocracy"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 15,
+    "emails": [],
+    "phones": [
+      "+352 42 39 39 330"
+    ],
+    "websites": [
+      "http://www.houseofentrepreneurship.lu"
+    ],
+    "addresses": [
+      {
+        "city": "Luxembourg City",
+        "name": "Billing",
+        "state": "Luxembourg",
+        "address": null,
+        "country": "Luxembourg",
+        "zipcode": "1468",
+        "billing_address": true,
+        "contact_datum_id": 3672496
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1198071",
+    "name": "Jitter Solutions Corp",
+    "billing_name": "Jitter Solutions Corp",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "gojitter.com",
+    "company_code": "Jitter Solutions Corp",
+    "created_at": "2025-11-13T14:36:19.596+01:00",
+    "productive_type_tag": [
+      "Vendor"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 15,
+    "emails": [
+      "support@jitter.video"
+    ],
+    "phones": [
+      "+1 613-818-1604"
+    ],
+    "websites": [
+      "http://www.gojitter.com"
+    ],
+    "addresses": [
+      {
+        "city": "Ottawa",
+        "name": "Billing",
+        "state": "Ontario",
+        "address": null,
+        "country": "Canada",
+        "zipcode": "K1Z 1G1",
+        "billing_address": true,
+        "contact_datum_id": 3647648
+      },
+      {
+        "city": "Vincennes",
+        "name": "Address",
+        "state": null,
+        "address": "49 avenue du Château",
+        "country": "France",
+        "zipcode": "94300",
+        "billing_address": false,
+        "contact_datum_id": 3671352
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1198997",
+    "name": "Make",
+    "billing_name": "Make",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "make.com",
+    "company_code": "Make",
+    "created_at": "2025-11-14T16:49:45.203+01:00",
+    "productive_type_tag": [
+      "Vendor"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 15,
+    "emails": [
+      "billing@make.com"
+    ],
+    "phones": [],
+    "websites": [
+      "http://www.make.com"
+    ],
+    "addresses": [
+      {
+        "city": "Prague",
+        "name": "Billing",
+        "state": "Hlavni mesto Praha",
+        "address": null,
+        "country": "Czech Republic",
+        "zipcode": "180 00",
+        "billing_address": true,
+        "contact_datum_id": 3651523
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1206330",
+    "name": "Minsitry of Foreign Affairs",
+    "billing_name": "Minsitry of Foreign Affairs, Luxembourg",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "etat.lu",
+    "company_code": "Minsitry of Foreign Affairs, Luxembourg",
+    "created_at": "2025-11-24T10:31:05.974+01:00",
+    "productive_type_tag": [
+      "Burocracy"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 30,
+    "emails": [],
+    "phones": [],
+    "websites": [
+      "http://www.etat.lu"
+    ],
+    "addresses": [
+      {
+        "city": "Luxembourg City",
+        "name": "Billing",
+        "state": "Luxembourg",
+        "address": null,
+        "country": "Luxembourg",
+        "zipcode": "2240",
+        "billing_address": true,
+        "contact_datum_id": 3672468
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1198082",
+    "name": "Mobbin",
+    "billing_name": "Mobbin",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "mobbin.com",
+    "company_code": "Mobbin",
+    "created_at": "2025-11-13T14:52:11.875+01:00",
+    "productive_type_tag": [
+      "Vendor"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 15,
+    "emails": [],
+    "phones": [],
+    "websites": [
+      "http://www.mobbin.com"
+    ],
+    "addresses": [
+      {
+        "city": "Singapore",
+        "name": "Billing",
+        "state": "",
+        "address": null,
+        "country": "Singapore",
+        "zipcode": "139952",
+        "billing_address": true,
+        "contact_datum_id": 3647689
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1194144",
+    "name": "Paladium Co-Working Space",
+    "billing_name": "Paladium Co-Working Space",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "paladium.lu",
+    "company_code": "PALA",
+    "created_at": "2025-11-08T18:31:05.351+01:00",
+    "productive_type_tag": [
+      "Client",
+      "Vendor"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 15,
+    "emails": [
+      "antoine@paladium.lu"
+    ],
+    "phones": [
+      "00 352 691 991 428"
+    ],
+    "websites": [
+      "http://www.paladium.lu"
+    ],
+    "addresses": [
+      {
+        "city": "Luxembourg City",
+        "name": "Billing",
+        "state": "Luxembourg",
+        "address": null,
+        "country": "Luxembourg",
+        "zipcode": "2355",
+        "billing_address": true,
+        "contact_datum_id": 3631193
+      }
+    ],
+    "named_contacts": [],
+    "notes": [
+      "confermato dall'utente: principalmente fornitore (coworking pagato da voi), in passato e' stato anche cliente. Tenuto tra i fornitori."
+    ]
+  },
+  {
+    "productive_id": "1198641",
+    "name": "Productive",
+    "billing_name": "Productive",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "productive.io",
+    "company_code": "Productive",
+    "created_at": "2025-11-13T22:04:03.767+01:00",
+    "productive_type_tag": [
+      "Vendor"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 15,
+    "emails": [],
+    "phones": [],
+    "websites": [
+      "http://www.productive.io"
+    ],
+    "addresses": [
+      {
+        "city": "Claymont",
+        "name": "Billing",
+        "state": "Delaware",
+        "address": null,
+        "country": "United States",
+        "zipcode": "19703",
+        "billing_address": true,
+        "contact_datum_id": 3649796
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1206427",
+    "name": "Teamgest",
+    "billing_name": "Teamgest",
+    "vat": "LU22548750",
+    "default_currency": "EUR",
+    "domain": "teamgest.com",
+    "company_code": "TEAMGEST",
+    "created_at": "2025-11-24T12:28:28.820+01:00",
+    "productive_type_tag": [
+      "Vendor"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 30,
+    "emails": [],
+    "phones": [],
+    "websites": [
+      "teamgest.com"
+    ],
+    "addresses": [
+      {
+        "city": "Hesperange",
+        "name": "Billing",
+        "state": "Luxembourg",
+        "address": "8, Allée d e la Jeunesse Sacrifiée 1940-1945",
+        "country": "Luxembourg",
+        "zipcode": "5863 ",
+        "billing_address": true,
+        "contact_datum_id": 3672850
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  },
+  {
+    "productive_id": "1184105",
+    "name": "TINKR",
+    "billing_name": null,
+    "vat": null,
+    "default_currency": null,
+    "domain": null,
+    "company_code": "TINK",
+    "created_at": "2025-10-28T18:43:27.288+01:00",
+    "productive_type_tag": [
+      "Contractor"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [],
+    "due_days": null,
+    "emails": [],
+    "phones": [],
+    "websites": [],
+    "addresses": [],
+    "named_contacts": [
+      {
+        "first_name": "Paul",
+        "last_name": "Sandor",
+        "email": "sandorpaul10@gmail.com"
+      }
+    ],
+    "notes": [
+      "contatto confermato dall'utente: Paul Sandor, freelancer pagato a progetto"
+    ]
+  },
+  {
+    "productive_id": "1206338",
+    "name": "Ville de Differdange",
+    "billing_name": "Ville de Differdange",
+    "vat": "123456789",
+    "default_currency": "EUR",
+    "domain": "differdange.lu",
+    "company_code": "Ville de Differdange",
+    "created_at": "2025-11-24T10:37:27.517+01:00",
+    "productive_type_tag": [
+      "Burocracy"
+    ],
+    "has_invoices_in_productive": false,
+    "tag_list": [
+      "partner",
+      "priority"
+    ],
+    "due_days": 15,
+    "emails": [],
+    "phones": [
+      "+352 24 75 51 70"
+    ],
+    "websites": [
+      "http://www.differdange.lu"
+    ],
+    "addresses": [
+      {
+        "city": "Differdange",
+        "name": "Billing",
+        "state": "Luxembourg",
+        "address": null,
+        "country": "Luxembourg",
+        "zipcode": "4530",
+        "billing_address": true,
+        "contact_datum_id": 3672500
+      }
+    ],
+    "named_contacts": [],
+    "notes": []
+  }
+]
