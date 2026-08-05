@@ -15,7 +15,7 @@ Istanza: `https://admin.squarestudio.design`
 | Task | importati poi **eliminati tutti** (non servono) |
 | Budget → note cliente | **15** clienti aggiornati; TINKR skip |
 | Quote / deal | **23** (10 Approved vinte, 13 Draft aperte/perse) |
-| Prodotti / tariffe | pulizia: **12 attivi** (solo clienti con progetto Active); 29 archiviati; 6 doppioni eliminati |
+| Prodotti / tariffe | listino snello: **Framer website**, **Brand identity**, **Design services (day)**, **DSK day/Extra** (prezzi fixed a 0 → in fattura) |
 
 ## Come usi i progetti (promemoria)
 
