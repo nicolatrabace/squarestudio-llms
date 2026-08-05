@@ -12,10 +12,10 @@ Istanza: `https://admin.squarestudio.design`
 | Fatture Esch (da PO) | 5, tutte Paid |
 | Progetti | ~16 (+ KYIP, Orange Week manuali); esclusi test/internal/TINKR/Design system |
 | Spese | 186 attive (dopo dedupe); PDF allegati non presenti nel JSON |
-| Task | **133** creati; **114** esclusi (Square Studio / TINKR / test) |
+| Task | importati poi **eliminati tutti** (non servono) |
 | Budget → note cliente | **15** clienti aggiornati; TINKR skip |
 | Quote / deal | **23** (10 Approved vinte, 13 Draft aperte/perse) |
-| Prodotti / tariffe | **47** |
+| Prodotti / tariffe | pulizia: **12 attivi** (solo clienti con progetto Active); 29 archiviati; 6 doppioni eliminati |
 
 ## Come usi i progetti (promemoria)
 
