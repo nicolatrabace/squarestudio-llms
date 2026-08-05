@@ -1,0 +1,103 @@
+{
+  "updated": [
+    {
+      "client": "DSK",
+      "client_id": "4y1aKrReQG",
+      "budgets": 1,
+      "total": 38016.0
+    },
+    {
+      "client": "MaPS System",
+      "client_id": "joQeZ6JepZ",
+      "budgets": 2,
+      "total": 58452.56
+    },
+    {
+      "client": "jemmic",
+      "client_id": "mWZdPNwaKg",
+      "budgets": 2,
+      "total": 60454.36
+    },
+    {
+      "client": "Esch ville",
+      "client_id": "q9wdL9wejP",
+      "budgets": 1,
+      "total": 0.0
+    },
+    {
+      "client": "Ristorante La Caserma",
+      "client_id": "QK9b68neEv",
+      "budgets": 1,
+      "total": 0.0
+    },
+    {
+      "client": "Omer Pozner",
+      "client_id": "KGRb4x1bBL",
+      "budgets": 1,
+      "total": 1500.0
+    },
+    {
+      "client": "Kaizntree",
+      "client_id": "JAPdR6qdGy",
+      "budgets": 2,
+      "total": 3250.0
+    },
+    {
+      "client": "The Arc / FlourishLab",
+      "client_id": "Wpmbk55ezJ",
+      "budgets": 1,
+      "total": 1000.0
+    },
+    {
+      "client": "Seadog Design",
+      "client_id": "MVyb82mevA",
+      "budgets": 2,
+      "total": 650.0
+    },
+    {
+      "client": "CMB Studio",
+      "client_id": "xYRdG67bDz",
+      "budgets": 1,
+      "total": 2000.0
+    },
+    {
+      "client": "Margin Health",
+      "client_id": "EKQe1wRbJY",
+      "budgets": 1,
+      "total": 3500.0
+    },
+    {
+      "client": "TP Quants",
+      "client_id": "wMvbmwOeYA",
+      "budgets": 1,
+      "total": 2500.0
+    },
+    {
+      "client": "Credit Klub",
+      "client_id": "1YQdJ62dOG",
+      "budgets": 1,
+      "total": 3500.0
+    },
+    {
+      "client": "April™",
+      "client_id": "X46dBBXd79",
+      "budgets": 1,
+      "total": 1000.0
+    },
+    {
+      "client": "Michael Jennings",
+      "client_id": "yJrb2kKdWL",
+      "budgets": 1,
+      "total": 2250.0
+    }
+  ],
+  "skipped": [
+    {
+      "budget": "TINKR [Budget]",
+      "reason": "excluded client",
+      "company": "TINKR"
+    }
+  ],
+  "errors": [],
+  "unmatched": []
+}

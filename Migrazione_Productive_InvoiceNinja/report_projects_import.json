@@ -1,0 +1,230 @@
+{
+  "created": [
+    {
+      "name": "CMB Studio",
+      "source_name": "CMB Studio",
+      "productive_id": "940020",
+      "invoice_ninja_id": "Opnel5aKBz",
+      "number": "0003",
+      "client_id": "xYRdG67bDz",
+      "client_name": "CMB Studio",
+      "match": "exact_name",
+      "archived": false
+    },
+    {
+      "name": "Credit Klub",
+      "source_name": "Credit Klub",
+      "productive_id": "945697",
+      "invoice_ninja_id": "wMvbmOeYAl",
+      "number": "0004",
+      "client_id": "1YQdJ62dOG",
+      "client_name": "Credit Klub",
+      "match": "exact_name",
+      "archived": false
+    },
+    {
+      "name": "DSK",
+      "source_name": "DSK [Project]",
+      "productive_id": "788839",
+      "invoice_ninja_id": "4openRe7Az",
+      "number": "0005",
+      "client_id": "4y1aKrReQG",
+      "client_name": "DSK",
+      "match": "exact_name",
+      "archived": false
+    },
+    {
+      "name": "Esch ville",
+      "source_name": "Esch ville",
+      "productive_id": "789328",
+      "invoice_ninja_id": "WJxbojagwO",
+      "number": "0006",
+      "client_id": "q9wdL9wejP",
+      "client_name": "Esch ville",
+      "match": "exact_name",
+      "archived": true
+    },
+    {
+      "name": "Flourishlab",
+      "source_name": "Flourishlab",
+      "productive_id": "907010",
+      "invoice_ninja_id": "k8mep2bMyJ",
+      "number": "0007",
+      "client_id": "Wpmbk55ezJ",
+      "client_name": "The Arc / FlourishLab",
+      "match": "alias:The Arc / FlourishLab",
+      "archived": false
+    },
+    {
+      "name": "Jemmic",
+      "source_name": "Jemmic [Project]",
+      "productive_id": "795145",
+      "invoice_ninja_id": "l4zbq2dprO",
+      "number": "0008",
+      "client_id": "mWZdPNwaKg",
+      "client_name": "jemmic",
+      "match": "exact_name",
+      "archived": false
+    },
+    {
+      "name": "Kaizntree",
+      "source_name": "Kaizntree",
+      "productive_id": "904361",
+      "invoice_ninja_id": "yMYerEdOBQ",
+      "number": "0009",
+      "client_id": "JAPdR6qdGy",
+      "client_name": "Kaizntree",
+      "match": "exact_name",
+      "archived": false
+    },
+    {
+      "name": "La Caserma",
+      "source_name": "La Caserma",
+      "productive_id": "807399",
+      "invoice_ninja_id": "gl9avmeG1v",
+      "number": "0010",
+      "client_id": "QK9b68neEv",
+      "client_name": "Ristorante La Caserma",
+      "match": "alias:Ristorante La Caserma",
+      "archived": false
+    },
+    {
+      "name": "MaPS System",
+      "source_name": "MaPS System [Project]",
+      "productive_id": "789405",
+      "invoice_ninja_id": "7LDdwRb1YK",
+      "number": "0011",
+      "client_id": "joQeZ6JepZ",
+      "client_name": "MaPS System",
+      "match": "exact_name",
+      "archived": false
+    },
+    {
+      "name": "Margin Health - Project",
+      "source_name": "Margin Health - Project",
+      "productive_id": "953407",
+      "invoice_ninja_id": "JX7ax9byv4",
+      "number": "0012",
+      "client_id": "EKQe1wRbJY",
+      "client_name": "Margin Health",
+      "match": "alias:Margin Health",
+      "archived": false
+    },
+    {
+      "name": "Michael Jennings - Framer website",
+      "source_name": "Michael Jennings - Framer website",
+      "productive_id": "978671",
+      "invoice_ninja_id": "kzPdy7aQro",
+      "number": "0013",
+      "client_id": "yJrb2kKdWL",
+      "client_name": "Michael Jennings",
+      "match": "alias:Michael Jennings",
+      "archived": false
+    },
+    {
+      "name": "Omer Poizner",
+      "source_name": "Omer Poizner",
+      "productive_id": "908107",
+      "invoice_ninja_id": "mxkazYeJ0P",
+      "number": "0014",
+      "client_id": "KGRb4x1bBL",
+      "client_name": "Omer Pozner",
+      "match": "alias:Omer Pozner",
+      "archived": true
+    },
+    {
+      "name": "TP Quants",
+      "source_name": "TP Quants [Project]",
+      "productive_id": "954200",
+      "invoice_ninja_id": "4w9aAOdvMR",
+      "number": "0015",
+      "client_id": "wMvbmwOeYA",
+      "client_name": "TP Quants",
+      "match": "exact_name",
+      "archived": false
+    },
+    {
+      "name": "Unicraft",
+      "source_name": "Unicraft",
+      "productive_id": "801565",
+      "invoice_ninja_id": "X46dBXa79j",
+      "number": "0016",
+      "client_id": "4openZRe7A",
+      "client_name": "Unicraft VC",
+      "match": "alias:Unicraft VC",
+      "archived": true
+    }
+  ],
+  "skipped_existing": [],
+  "excluded": [
+    {
+      "name": "Deal test",
+      "cleaned": "Deal test",
+      "productive_id": "794696",
+      "reason": "test project: Deal test"
+    },
+    {
+      "name": "Square Studio [Project]",
+      "cleaned": "Square Studio",
+      "productive_id": "789324",
+      "reason": "internal: Square Studio"
+    },
+    {
+      "name": "Test",
+      "cleaned": "Test",
+      "productive_id": "800098",
+      "reason": "internal: Test"
+    },
+    {
+      "name": "Test 2",
+      "cleaned": "Test 2",
+      "productive_id": "794697",
+      "reason": "test project: Test 2"
+    },
+    {
+      "name": "Test 3",
+      "cleaned": "Test 3",
+      "productive_id": "794706",
+      "reason": "test project: Test 3"
+    },
+    {
+      "name": "TINKR",
+      "cleaned": "TINKR",
+      "productive_id": "799225",
+      "reason": "internal: TINKR (import only TINKR [Project])"
+    }
+  ],
+  "manual_assignment": [],
+  "errors": [],
+  "archived_after_create": [
+    "Esch ville",
+    "Omer Poizner",
+    "Unicraft"
+  ],
+  "manual_resolved": [
+    {
+      "name": "KYIP CAPITAL - Framer",
+      "id": "oBDbDxbl2E",
+      "client": "April™",
+      "productive_id": "968860"
+    },
+    {
+      "name": "Orange Week",
+      "id": "K4oeEva0By",
+      "client": "Esch ville",
+      "productive_id": "795176"
+    }
+  ],
+  "cancelled": [
+    {
+      "name": "TINKR [Project]",
+      "productive_id": "799226",
+      "reason": "cancellato da Nicola — non importare"
+    },
+    {
+      "name": "Design system",
+      "productive_id": "793085",
+      "reason": "eliminato da Nicola — non importare"
+    }
+  ]
+}

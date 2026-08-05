@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": "Wpmbk5ezJn",
+            "name": "EXO",
+            "rate": 0,
+            "is_deleted": false,
+            "updated_at": 1785848977,
+            "archived_at": 0,
+            "created_at": 1785848977
+        },
+        {
+            "id": "VolejRejNm",
+            "name": "LUX",
+            "rate": 17,
+            "is_deleted": false,
+            "updated_at": 1785848967,
+            "archived_at": 0,
+            "created_at": 1785848965
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "total": 2,
+            "count": 2,
+            "per_page": 20,
+            "current_page": 1,
+            "total_pages": 1,
+            "links": {}
+        }
+    }
+}

@@ -1,0 +1,640 @@
+{
+  "created": [
+    {
+      "name": "April™",
+      "productive_id": "1350293",
+      "invoice_ninja_id": "X46dBBXd79",
+      "number": "0060",
+      "vat_number": "06286330961",
+      "currency_id": "3",
+      "country_id": "380",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Awevo",
+      "productive_id": "1198059",
+      "invoice_ninja_id": "oBDbDkxal2",
+      "number": "0061",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "info@awevo.com",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Charmstone Digital",
+      "productive_id": "1363220",
+      "invoice_ninja_id": "K4oeERva0B",
+      "number": "0062",
+      "vat_number": "",
+      "currency_id": "1",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "contact@charmstonedigital.com",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "CMB Studio",
+      "productive_id": "1333308",
+      "invoice_ninja_id": "xYRdG67bDz",
+      "number": "0063",
+      "vat_number": "FR5753104384011",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Credit Klub",
+      "productive_id": "1370614",
+      "invoice_ninja_id": "1YQdJ62dOG",
+      "number": "0064",
+      "vat_number": "104540869",
+      "currency_id": "3",
+      "country_id": "250",
+      "contacts": [
+        {
+          "email": "a.wack@luxkredit.lu",
+          "first_name": "",
+          "last_name": ""
+        },
+        {
+          "email": "wack.alexandra@gmail.com",
+          "first_name": "",
+          "last_name": ""
+        },
+        {
+          "email": "malick.melanie@yahoo.fr",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "DSK",
+      "productive_id": "1184743",
+      "invoice_ninja_id": "4y1aKrReQG",
+      "number": "0065",
+      "vat_number": "LU15271378",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "dmuller@dsk.lu",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Esch ville",
+      "productive_id": "1185165",
+      "invoice_ninja_id": "q9wdL9wejP",
+      "number": "0066",
+      "vat_number": "LU10286570",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Farmer Palmers Farm Park",
+      "productive_id": "1303090",
+      "invoice_ninja_id": "7N1aM8AeWm",
+      "number": "0067",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "826",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Good Form",
+      "productive_id": "1315222",
+      "invoice_ninja_id": "QJ0dNk6eLO",
+      "number": "0068",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Isagani Yorke Capital Partners",
+      "productive_id": "1418252",
+      "invoice_ninja_id": "z3YaOYpdxq",
+      "number": "0069",
+      "vat_number": "",
+      "currency_id": "1",
+      "country_id": "840",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "jemmic",
+      "productive_id": "1194238",
+      "invoice_ninja_id": "mWZdPNwaKg",
+      "number": "0070",
+      "vat_number": "LU23122604",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "jerome.muller@jemmic.com",
+          "first_name": "Jerome",
+          "last_name": "Muller"
+        }
+      ]
+    },
+    {
+      "name": "Jeremy Gudac",
+      "productive_id": "1318566",
+      "invoice_ninja_id": "LYqaQWldnj",
+      "number": "0071",
+      "vat_number": "",
+      "currency_id": "1",
+      "country_id": "840",
+      "contacts": [
+        {
+          "email": "wulvynstudio@gmail.com",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Kaizntree",
+      "productive_id": "1312189",
+      "invoice_ninja_id": "JAPdR6qdGy",
+      "number": "0072",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "La-Royale",
+      "productive_id": "1198067",
+      "invoice_ninja_id": "Oy5eVOMaEP",
+      "number": "0073",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "compta@la-royale.com",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Land zum Leben Merzig-Wadern e.V.",
+      "productive_id": "1470785",
+      "invoice_ninja_id": "rlNbW6Jayg",
+      "number": "0074",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "276",
+      "contacts": [
+        {
+          "email": "s.prommenschenkel@merzig-wadern.de",
+          "first_name": "Susanne",
+          "last_name": "Prommenschenkel"
+        }
+      ]
+    },
+    {
+      "name": "LetzToken",
+      "productive_id": "1445827",
+      "invoice_ninja_id": "kQBeXDWeyK",
+      "number": "0075",
+      "vat_number": "LU33120132",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "Jamey@letztoken.com",
+          "first_name": "",
+          "last_name": ""
+        },
+        {
+          "email": "contact@letztoken.com",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Luxembourg National Data Service (LNDS)",
+      "productive_id": "1192465",
+      "invoice_ninja_id": "W4QbYEKbzq",
+      "number": "0076",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "rose.pasigna@lnds.lu",
+          "first_name": "",
+          "last_name": ""
+        },
+        {
+          "email": "sandorpaul10@gmail.com",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "MaPS System",
+      "productive_id": "1185216",
+      "invoice_ninja_id": "joQeZ6JepZ",
+      "number": "0077",
+      "vat_number": "LU25066743",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "compta@maps-system.com",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Margin Health",
+      "productive_id": "1381322",
+      "invoice_ninja_id": "EKQe1wRbJY",
+      "number": "0078",
+      "vat_number": "",
+      "currency_id": "1",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Michael Jennings",
+      "productive_id": "1431502",
+      "invoice_ninja_id": "yJrb2kKdWL",
+      "number": "0079",
+      "vat_number": "",
+      "currency_id": "1",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "michaelkjennings@gmail.com",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "MNAHA",
+      "productive_id": "1308890",
+      "invoice_ninja_id": "GELe31Mb69",
+      "number": "0080",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Omer Pozner",
+      "productive_id": "1311973",
+      "invoice_ninja_id": "KGRb4x1bBL",
+      "number": "0081",
+      "vat_number": "",
+      "currency_id": "1",
+      "country_id": "840",
+      "contacts": [
+        {
+          "email": "opozner@gmail.com",
+          "first_name": "Omer",
+          "last_name": "Pozner"
+        }
+      ]
+    },
+    {
+      "name": "PS CarWash",
+      "productive_id": "1244915",
+      "invoice_ninja_id": "qM7e5yBe2v",
+      "number": "0082",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "Info.pscarwash@gmail.com",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Ristorante La Caserma",
+      "productive_id": "1213078",
+      "invoice_ninja_id": "QK9b68neEv",
+      "number": "0083",
+      "vat_number": "04295080404",
+      "currency_id": "3",
+      "country_id": "380",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "RMK",
+      "productive_id": "1308936",
+      "invoice_ninja_id": "O5xe73je7r",
+      "number": "0084",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "784",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Seadog Design",
+      "productive_id": "1325134",
+      "invoice_ninja_id": "MVyb82mevA",
+      "number": "0085",
+      "vat_number": "93-1900655",
+      "currency_id": "1",
+      "country_id": "840",
+      "contacts": [
+        {
+          "email": "will@seadog.design",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Sita Gastronomia Italiana",
+      "productive_id": "1198068",
+      "invoice_ninja_id": "VWPe9rxaLy",
+      "number": "0086",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "56",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Standd",
+      "productive_id": "1310907",
+      "invoice_ninja_id": "QnXe0Rvbxr",
+      "number": "0087",
+      "vat_number": "",
+      "currency_id": "1",
+      "country_id": "840",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Steinberg Protocol",
+      "productive_id": "1206333",
+      "invoice_ninja_id": "Wjneg5YbwZ",
+      "number": "0088",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "360",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Style Supply",
+      "productive_id": "1312190",
+      "invoice_ninja_id": "Volej2RejN",
+      "number": "0089",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "The Arc / FlourishLab",
+      "productive_id": "1315967",
+      "invoice_ninja_id": "Wpmbk55ezJ",
+      "number": "0090",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "The Human Architect",
+      "productive_id": "1312168",
+      "invoice_ninja_id": "OpnelO5dKB",
+      "number": "0091",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "TP Quants",
+      "productive_id": "1382275",
+      "invoice_ninja_id": "wMvbmwOeYA",
+      "number": "0092",
+      "vat_number": "LU37446946",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "nicolas.jeangeorges@tpquants.com",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Unicraft VC",
+      "productive_id": "1198065",
+      "invoice_ninja_id": "4openZRe7A",
+      "number": "0093",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "250",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "White Canvas Co",
+      "productive_id": "1303208",
+      "invoice_ninja_id": "WJxboYjegw",
+      "number": "0094",
+      "vat_number": "",
+      "currency_id": "12",
+      "country_id": "36",
+      "contacts": [
+        {
+          "email": "elle@whitecanvasco.com",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    }
+  ],
+  "skipped": [],
+  "errors": [],
+  "warnings": [
+    {
+      "name": "Awevo",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "Charmstone Digital",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "Farmer Palmers Farm Park",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "Good Form",
+      "warning": "no default_currency, company default used"
+    },
+    {
+      "name": "Kaizntree",
+      "warning": "no default_currency, company default used"
+    },
+    {
+      "name": "La-Royale",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "Luxembourg National Data Service (LNDS)",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "Sita Gastronomia Italiana",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "Steinberg Protocol",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "Style Supply",
+      "warning": "no default_currency, company default used"
+    },
+    {
+      "name": "The Arc / FlourishLab",
+      "warning": "no default_currency, company default used"
+    },
+    {
+      "name": "The Human Architect",
+      "warning": "no default_currency, company default used"
+    },
+    {
+      "name": "Unicraft VC",
+      "warning": "placeholder VAT skipped"
+    }
+  ]
+}

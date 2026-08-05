@@ -1,0 +1,356 @@
+{
+  "tasks_deleted": 133,
+  "task_bulk": [
+    {
+      "status": 200,
+      "n": 50,
+      "ok": true
+    },
+    {
+      "status": 200,
+      "n": 50,
+      "ok": true
+    },
+    {
+      "status": 200,
+      "n": 33,
+      "ok": true
+    }
+  ],
+  "products_keep": [
+    {
+      "id": "GELe3Mb698",
+      "key": "MaPS System — General design services MaPS 2025",
+      "price": 400.36,
+      "productive_id": "10878647"
+    },
+    {
+      "id": "yJrb2KdWLD",
+      "key": "jemmic — General design services Jemmic 2025",
+      "price": 400.36,
+      "productive_id": "11047909"
+    },
+    {
+      "id": "EKQe1RaJYv",
+      "key": "jemmic — General design services",
+      "price": 400.36,
+      "productive_id": "11142672"
+    },
+    {
+      "id": "joQeZJepZV",
+      "key": "MaPS System — General design services",
+      "price": 400.36,
+      "productive_id": "11142670"
+    },
+    {
+      "id": "W4QbYKezqM",
+      "key": "DSK — General design services",
+      "price": 792,
+      "productive_id": "11112074"
+    },
+    {
+      "id": "LYqaQlenjk",
+      "key": "Michael Jennings — Framer website",
+      "price": 2250,
+      "productive_id": "15214813"
+    },
+    {
+      "id": "QJ0dN6dLOv",
+      "key": "April™ — Framer website",
+      "price": 1000,
+      "productive_id": "14921518"
+    },
+    {
+      "id": "7N1aMAaWmp",
+      "key": "Credit Klub — Framer website",
+      "price": 2500,
+      "productive_id": "14799199"
+    },
+    {
+      "id": "q9wdLwbjPX",
+      "key": "TP Quants — Framer website",
+      "price": 2500,
+      "productive_id": "14674409"
+    },
+    {
+      "id": "oBDbDxbl2E",
+      "key": "CMB Studio — Framer website",
+      "price": 2500,
+      "productive_id": "14340131"
+    },
+    {
+      "id": "7LDdwRb1YK",
+      "key": "DSK — Extra",
+      "price": 792,
+      "productive_id": "11048010"
+    },
+    {
+      "id": "4openRe7Az",
+      "key": "Credit Klub — Brand identity",
+      "price": 2000,
+      "productive_id": "14799198"
+    }
+  ],
+  "products_dup_delete": [
+    {
+      "id": "mWZdPwbKgR",
+      "key": "Michael Jennings — Framer website",
+      "price": 2250,
+      "productive_id": "15178972"
+    },
+    {
+      "id": "X46dBXa79j",
+      "key": "April™ — Framer website",
+      "price": 1000,
+      "productive_id": "14277791"
+    },
+    {
+      "id": "K4oeEva0By",
+      "key": "Credit Klub — Framer website",
+      "price": 2500,
+      "productive_id": "14443027"
+    },
+    {
+      "id": "1YQdJ2dOGp",
+      "key": "TP Quants — Framer website",
+      "price": 2500,
+      "productive_id": "14664949"
+    },
+    {
+      "id": "4w9aAOdvMR",
+      "key": "CMB Studio — Framer website",
+      "price": 2500,
+      "productive_id": "13954177"
+    },
+    {
+      "id": "wMvbmOeYAl",
+      "key": "Credit Klub — Brand identity",
+      "price": 2000,
+      "productive_id": "14442936"
+    }
+  ],
+  "products_archive": [
+    {
+      "id": "wMvbmZOdYA",
+      "key": "Standd — Website Redesign Framer - Phase 1 & 2",
+      "price": 4250
+    },
+    {
+      "id": "OpnelY5aKB",
+      "key": "Charmstone Digital — Website Development in Framer",
+      "price": 3500
+    },
+    {
+      "id": "WpmbkR5azJ",
+      "key": "PS CarWash — Simple logo design",
+      "price": 3500
+    },
+    {
+      "id": "VolejRRejN",
+      "key": "Omer Poizner — Portfolio Website Framer",
+      "price": 1500
+    },
+    {
+      "id": "WjnegJYdwZ",
+      "key": "Omer Poizner — Portfolio Website Framer",
+      "price": 1500
+    },
+    {
+      "id": "QnXe0vbxrL",
+      "key": "The Human Architect — Phase 1 - Website Design & Development (Framer)",
+      "price": 8000
+    },
+    {
+      "id": "VWPe9xdLyw",
+      "key": "MNAHA — Landing page Expo Berthe Brincour",
+      "price": 5000
+    },
+    {
+      "id": "MVyb8mdvAZ",
+      "key": "Kaizntree — Kaizntree - Website design",
+      "price": 1250
+    },
+    {
+      "id": "O5xe7jd7rJ",
+      "key": "Kaizntree — Kaizntree - Website design",
+      "price": 1250
+    },
+    {
+      "id": "QK9b6nbEvY",
+      "key": "Kaizntree — Kaizntree - Website design",
+      "price": 2000
+    },
+    {
+      "id": "qM7e5Ba2vp",
+      "key": "Kaizntree — Kaizntree - Website design",
+      "price": 1500
+    },
+    {
+      "id": "KGRb41dBLZ",
+      "key": "PS CarWash — Integrations, meetings and orders",
+      "price": 500
+    },
+    {
+      "id": "kQBeXWdyK8",
+      "key": "Good Form — Framer Website Build (3-5 pages + CMS)",
+      "price": 4250
+    },
+    {
+      "id": "rlNbWJayg5",
+      "key": "Style Supply — Framer Website — Style Supply",
+      "price": 3000
+    },
+    {
+      "id": "Oy5eVMdEP4",
+      "key": "The Arc / FlourishLab — Framer Website — FlourishLab",
+      "price": 1000
+    },
+    {
+      "id": "JAPdRqbGyO",
+      "key": "The Arc / FlourishLab — Framer Website — FlourishLab",
+      "price": 1000
+    },
+    {
+      "id": "z3YaOpbxql",
+      "key": "Isagani Yorke Capital Partners — Framer website",
+      "price": 7500
+    },
+    {
+      "id": "4y1aKReQGw",
+      "key": "Margin Health — Framer website",
+      "price": 3500
+    },
+    {
+      "id": "xYRdG7dDzO",
+      "key": "Margin Health — Framer website",
+      "price": 3500
+    },
+    {
+      "id": "mxkazYeJ0P",
+      "key": "Jeremy Gudac — Framer website",
+      "price": 5000
+    },
+    {
+      "id": "kzPdy7aQro",
+      "key": "Seadog Design — Framer development",
+      "price": 150
+    },
+    {
+      "id": "JX7ax9byv4",
+      "key": "PS CarWash — Flyer design",
+      "price": 1000
+    },
+    {
+      "id": "gl9avmeG1v",
+      "key": "LetzToken — Design system",
+      "price": 7000
+    },
+    {
+      "id": "yMYerEdOBQ",
+      "key": "Luxembourg National Data Service (LNDS) — Design system",
+      "price": 800
+    },
+    {
+      "id": "l4zbq2dprO",
+      "key": "RMK — cladbond.com",
+      "price": 4500
+    },
+    {
+      "id": "k8mep2bMyJ",
+      "key": "PS CarWash — Business card design",
+      "price": 400
+    },
+    {
+      "id": "WJxbojagwO",
+      "key": "Seadog Design — Budget",
+      "price": 500
+    },
+    {
+      "id": "Opnel5aKBz",
+      "key": "PS CarWash — Basic website",
+      "price": 9600
+    },
+    {
+      "id": "Wpmbk5ezJn",
+      "key": "Land zum Leben Merzig-Wadern e.V. — Anpassung der bestehenden Vorlage",
+      "price": 400
+    }
+  ],
+  "products_active_after": [
+    {
+      "key": "MaPS System — General design services MaPS 2025",
+      "price": 400.36,
+      "id": "GELe3Mb698"
+    },
+    {
+      "key": "jemmic — General design services Jemmic 2025",
+      "price": 400.36,
+      "id": "yJrb2KdWLD"
+    },
+    {
+      "key": "jemmic — General design services",
+      "price": 400.36,
+      "id": "EKQe1RaJYv"
+    },
+    {
+      "key": "MaPS System — General design services",
+      "price": 400.36,
+      "id": "joQeZJepZV"
+    },
+    {
+      "key": "DSK — General design services",
+      "price": 792,
+      "id": "W4QbYKezqM"
+    },
+    {
+      "key": "Michael Jennings — Framer website",
+      "price": 2250,
+      "id": "LYqaQlenjk"
+    },
+    {
+      "key": "April™ — Framer website",
+      "price": 1000,
+      "id": "QJ0dN6dLOv"
+    },
+    {
+      "key": "Credit Klub — Framer website",
+      "price": 2500,
+      "id": "7N1aMAaWmp"
+    },
+    {
+      "key": "TP Quants — Framer website",
+      "price": 2500,
+      "id": "q9wdLwbjPX"
+    },
+    {
+      "key": "CMB Studio — Framer website",
+      "price": 2500,
+      "id": "oBDbDxbl2E"
+    },
+    {
+      "key": "DSK — Extra",
+      "price": 792,
+      "id": "7LDdwRb1YK"
+    },
+    {
+      "key": "Credit Klub — Brand identity",
+      "price": 2000,
+      "id": "4openRe7Az"
+    }
+  ],
+  "tasks_active_after": 0,
+  "archive_bulk": [
+    {
+      "status": 200,
+      "n": 29,
+      "ok": true
+    }
+  ],
+  "dup_delete_bulk": [
+    {
+      "status": 200,
+      "n": 6,
+      "ok": true
+    }
+  ]
+}

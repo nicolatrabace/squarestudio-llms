@@ -1,0 +1,1776 @@
+{
+  "created": [
+    {
+      "productive_id": "14532446",
+      "invoice_ninja_id": "Wpmbk5ezJn",
+      "number": "0002",
+      "title": "Finish the cleaning part",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "14532491",
+      "invoice_ninja_id": "Opnel5aKBz",
+      "number": "0003",
+      "title": "[UX] Screen migration",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "14532553",
+      "invoice_ninja_id": "wMvbmOeYAl",
+      "number": "0004",
+      "title": "[UX] Left menu",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "14532618",
+      "invoice_ninja_id": "4openRe7Az",
+      "number": "0005",
+      "title": "[UI] Test proposed color palette",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "14532916",
+      "invoice_ninja_id": "WJxbojagwO",
+      "number": "0006",
+      "title": "Social media post changes",
+      "project": "Esch ville",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "14534481",
+      "invoice_ninja_id": "k8mep2bMyJ",
+      "number": "0007",
+      "title": "Design services",
+      "project": "MaPS System",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "14675626",
+      "invoice_ninja_id": "l4zbq2dprO",
+      "number": "0008",
+      "title": "Component",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "14675636",
+      "invoice_ninja_id": "yMYerEdOBQ",
+      "number": "0009",
+      "title": "Dialog",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 45
+    },
+    {
+      "productive_id": "14675687",
+      "invoice_ninja_id": "gl9avmeG1v",
+      "number": "0010",
+      "title": "Button",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 95
+    },
+    {
+      "productive_id": "14676111",
+      "invoice_ninja_id": "7LDdwRb1YK",
+      "number": "0011",
+      "title": "[Table] View management",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "14676113",
+      "invoice_ninja_id": "JX7ax9byv4",
+      "number": "0012",
+      "title": "Column mamagement",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 70
+    },
+    {
+      "productive_id": "14676114",
+      "invoice_ninja_id": "kzPdy7aQro",
+      "number": "0013",
+      "title": "Filter management",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 60
+    },
+    {
+      "productive_id": "14676129",
+      "invoice_ninja_id": "mxkazYeJ0P",
+      "number": "0014",
+      "title": "Mass action (bottom floating bar)",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 120
+    },
+    {
+      "productive_id": "14700033",
+      "invoice_ninja_id": "4w9aAOdvMR",
+      "number": "0015",
+      "title": "Column selection (to display)",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "14701963",
+      "invoice_ninja_id": "X46dBXa79j",
+      "number": "0016",
+      "title": "Fix [Email]",
+      "project": "Orange Week",
+      "closed": true,
+      "worked_minutes": 60
+    },
+    {
+      "productive_id": "14740894",
+      "invoice_ninja_id": "oBDbDxbl2E",
+      "number": "0017",
+      "title": "Include DSK screens in the DSK (official) flow",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 20
+    },
+    {
+      "productive_id": "14741478",
+      "invoice_ninja_id": "K4oeEva0By",
+      "number": "0018",
+      "title": "Application navigation (left menu)",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 30
+    },
+    {
+      "productive_id": "14741521",
+      "invoice_ninja_id": "xYRdG7dDzO",
+      "number": "0019",
+      "title": "Move all the flows in the main DSK flow",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 5
+    },
+    {
+      "productive_id": "14846146",
+      "invoice_ninja_id": "1YQdJ2dOGp",
+      "number": "0020",
+      "title": "Connect to new figma account",
+      "project": "MaPS System",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "14846151",
+      "invoice_ninja_id": "4y1aKReQGw",
+      "number": "0021",
+      "title": "Finish e-book for maps",
+      "project": "MaPS System",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "14861081",
+      "invoice_ninja_id": "q9wdLwbjPX",
+      "number": "0022",
+      "title": "Logos",
+      "project": "MaPS System",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15005339",
+      "invoice_ninja_id": "7N1aMAaWmp",
+      "number": "0023",
+      "title": "Landing page",
+      "project": "La Caserma",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15005340",
+      "invoice_ninja_id": "QJ0dN6dLOv",
+      "number": "0024",
+      "title": "Menu page",
+      "project": "La Caserma",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15005341",
+      "invoice_ninja_id": "z3YaOpbxql",
+      "number": "0025",
+      "title": "Contact page",
+      "project": "La Caserma",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15005342",
+      "invoice_ninja_id": "mWZdPwbKgR",
+      "number": "0026",
+      "title": "Instagram page -> papà",
+      "project": "La Caserma",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15005343",
+      "invoice_ninja_id": "LYqaQlenjk",
+      "number": "0027",
+      "title": "Whatsapp business / Facebook / Instagram (auto answers)",
+      "project": "La Caserma",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15005344",
+      "invoice_ninja_id": "JAPdRqbGyO",
+      "number": "0028",
+      "title": "Table booking",
+      "project": "La Caserma",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15005345",
+      "invoice_ninja_id": "Oy5eVMdEP4",
+      "number": "0029",
+      "title": "Sistemare Business Manager",
+      "project": "La Caserma",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15005346",
+      "invoice_ninja_id": "rlNbWJayg5",
+      "number": "0030",
+      "title": "Delivery con GloriaFood",
+      "project": "La Caserma",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15017641",
+      "invoice_ninja_id": "kQBeXWdyK8",
+      "number": "0031",
+      "title": "Set up google analytics etc",
+      "project": "La Caserma",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15017645",
+      "invoice_ninja_id": "W4QbYKezqM",
+      "number": "0032",
+      "title": "Diritti di modifica a mio padre",
+      "project": "La Caserma",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15018588",
+      "invoice_ninja_id": "joQeZJepZV",
+      "number": "0033",
+      "title": "Inserire menu completo",
+      "project": "La Caserma",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15018592",
+      "invoice_ninja_id": "EKQe1RaJYv",
+      "number": "0034",
+      "title": "Su Google",
+      "project": "La Caserma",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15018595",
+      "invoice_ninja_id": "yJrb2KdWLD",
+      "number": "0035",
+      "title": "Su Gloriafood",
+      "project": "La Caserma",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15021762",
+      "invoice_ninja_id": "GELe3Mb698",
+      "number": "0036",
+      "title": "Verificare con sistema di cassa",
+      "project": "La Caserma",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15023963",
+      "invoice_ninja_id": "KGRb41dBLZ",
+      "number": "0037",
+      "title": "Materiale promozionale (codici QR e sconti) per incentivare a usare il nuovo sistema",
+      "project": "La Caserma",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15062898",
+      "invoice_ninja_id": "qM7e5Ba2vp",
+      "number": "0038",
+      "title": "Notification automation → Email to Whatsapp group",
+      "project": "La Caserma",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15062953",
+      "invoice_ninja_id": "QK9b6nbEvY",
+      "number": "0039",
+      "title": "Set up Paypal business for the restaurant",
+      "project": "La Caserma",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15066120",
+      "invoice_ninja_id": "O5xe7jd7rJ",
+      "number": "0040",
+      "title": "Top bar",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15066128",
+      "invoice_ninja_id": "MVyb8mdvAZ",
+      "number": "0041",
+      "title": "Settings dialog",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15066135",
+      "invoice_ninja_id": "VWPe9xdLyw",
+      "number": "0042",
+      "title": "Select person dialog",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15066140",
+      "invoice_ninja_id": "QnXe0vbxrL",
+      "number": "0043",
+      "title": "Dock side options",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15066146",
+      "invoice_ninja_id": "WjnegJYdwZ",
+      "number": "0044",
+      "title": "Mass action",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "15066147",
+      "invoice_ninja_id": "VolejRRejN",
+      "number": "0045",
+      "title": "Add new view",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "16143567",
+      "invoice_ninja_id": "WpmbkR5azJ",
+      "number": "0046",
+      "title": "Videocall - iOS 26, Bottom sheet android",
+      "project": "Jemmic",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "16143732",
+      "invoice_ninja_id": "OpnelY5aKB",
+      "number": "0047",
+      "title": "Sistema di cassa investigare",
+      "project": "La Caserma",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17100383",
+      "invoice_ninja_id": "wMvbmZOdYA",
+      "number": "0048",
+      "title": "CMS",
+      "project": "Kaizntree",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17100424",
+      "invoice_ninja_id": "4open5Rd7A",
+      "number": "0049",
+      "title": "Check links",
+      "project": "Kaizntree",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17100438",
+      "invoice_ninja_id": "WJxbo2jagw",
+      "number": "0050",
+      "title": "CUSTOMERS - Client page (specific)",
+      "project": "Kaizntree",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17100443",
+      "invoice_ninja_id": "k8mepY2aMy",
+      "number": "0051",
+      "title": "CUSTOMERS - General page (collection of projects)",
+      "project": "Kaizntree",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17205981",
+      "invoice_ninja_id": "l4zbqx2apr",
+      "number": "0052",
+      "title": "Change images from vertical to horizontal",
+      "project": "Omer Poizner",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17514069",
+      "invoice_ninja_id": "yMYerkEaOB",
+      "number": "0053",
+      "title": "MaPS Design system",
+      "project": "MaPS System",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17542765",
+      "invoice_ninja_id": "gl9av2maG1",
+      "number": "0054",
+      "title": "Message transcription SC-21753",
+      "project": "Jemmic",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17542785",
+      "invoice_ninja_id": "7LDdwpRe1Y",
+      "number": "0055",
+      "title": "Web",
+      "project": "Jemmic",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17542787",
+      "invoice_ninja_id": "JX7axk9eyv",
+      "number": "0056",
+      "title": "Android",
+      "project": "Jemmic",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17542788",
+      "invoice_ninja_id": "kzPdyP7bQr",
+      "number": "0057",
+      "title": "iOS",
+      "project": "Jemmic",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17542833",
+      "invoice_ninja_id": "mxkazpYdJ0",
+      "number": "0058",
+      "title": "Dodo changes",
+      "project": "MaPS System",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17542878",
+      "invoice_ninja_id": "4w9aADOevM",
+      "number": "0059",
+      "title": "Conversation filtering SC-21750",
+      "project": "Jemmic",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17555915",
+      "invoice_ninja_id": "X46dBBXd79",
+      "number": "0060",
+      "title": "Calendar",
+      "project": "DSK",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17555925",
+      "invoice_ninja_id": "oBDbDkxal2",
+      "number": "0061",
+      "title": "Define views, filters, actions in desktop, drawer and modals",
+      "project": "DSK",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17555963",
+      "invoice_ninja_id": "K4oeERva0B",
+      "number": "0062",
+      "title": "Create small cells for the tables in the design system",
+      "project": "DSK",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17555965",
+      "invoice_ninja_id": "xYRdG67bDz",
+      "number": "0063",
+      "title": "Propose graphic design services for events and website",
+      "project": "DSK",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17556470",
+      "invoice_ninja_id": "1YQdJ62dOG",
+      "number": "0064",
+      "title": "Make it more brown and red",
+      "project": "La Caserma",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17612201",
+      "invoice_ninja_id": "4y1aKrReQG",
+      "number": "0065",
+      "title": "Simplify U-Safe in one page",
+      "project": "Jemmic",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17707977",
+      "invoice_ninja_id": "q9wdL9wejP",
+      "number": "0066",
+      "title": "Slides",
+      "project": "MaPS System",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17753895",
+      "invoice_ninja_id": "7N1aM8AeWm",
+      "number": "0067",
+      "title": "Case study quick fix",
+      "project": "MaPS System",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17897628",
+      "invoice_ninja_id": "QJ0dNk6eLO",
+      "number": "0068",
+      "title": "Dodo - Manage brand",
+      "project": "MaPS System",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17969910",
+      "invoice_ninja_id": "z3YaOYpdxq",
+      "number": "0069",
+      "title": "Details to check",
+      "project": "Jemmic",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17969917",
+      "invoice_ninja_id": "mWZdPNwaKg",
+      "number": "0070",
+      "title": "Non-core status colour scheme",
+      "project": "MaPS System",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17969931",
+      "invoice_ninja_id": "LYqaQWldnj",
+      "number": "0071",
+      "title": "Kakemono + Flyer",
+      "project": "MaPS System",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17969972",
+      "invoice_ninja_id": "JAPdR6qdGy",
+      "number": "0072",
+      "title": "Drawer sections needs to be improved",
+      "project": "DSK",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17969978",
+      "invoice_ninja_id": "Oy5eVOMaEP",
+      "number": "0073",
+      "title": "Card view (table alternative)",
+      "project": "DSK",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17969981",
+      "invoice_ninja_id": "rlNbW6Jayg",
+      "number": "0074",
+      "title": "Contrast improvements",
+      "project": "DSK",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17969986",
+      "invoice_ninja_id": "kQBeXDWeyK",
+      "number": "0075",
+      "title": "Status icons management",
+      "project": "DSK",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17969992",
+      "invoice_ninja_id": "W4QbYEKbzq",
+      "number": "0076",
+      "title": "Avatar replacement management",
+      "project": "DSK",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17970000",
+      "invoice_ninja_id": "joQeZ6JepZ",
+      "number": "0077",
+      "title": "Settings page",
+      "project": "DSK",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17970001",
+      "invoice_ninja_id": "EKQe1wRbJY",
+      "number": "0078",
+      "title": "Check all comments and clean up on Figma",
+      "project": "DSK",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17970040",
+      "invoice_ninja_id": "yJrb2kKdWL",
+      "number": "0079",
+      "title": "Text input (format)",
+      "project": "Jemmic",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17970041",
+      "invoice_ninja_id": "GELe31Mb69",
+      "number": "0080",
+      "title": "Web",
+      "project": "Jemmic",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17970043",
+      "invoice_ninja_id": "KGRb4x1bBL",
+      "number": "0081",
+      "title": "Android",
+      "project": "Jemmic",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17970044",
+      "invoice_ninja_id": "qM7e5yBe2v",
+      "number": "0082",
+      "title": "iOS",
+      "project": "Jemmic",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "17970131",
+      "invoice_ninja_id": "QK9b68neEv",
+      "number": "0083",
+      "title": "Eminence case study to finish",
+      "project": "MaPS System",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18020605",
+      "invoice_ninja_id": "O5xe73je7r",
+      "number": "0084",
+      "title": "Find template",
+      "project": "CMB Studio",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18020658",
+      "invoice_ninja_id": "MVyb82mevA",
+      "number": "0085",
+      "title": "Find body font",
+      "project": "CMB Studio",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18020663",
+      "invoice_ninja_id": "VWPe9rxaLy",
+      "number": "0086",
+      "title": "Extract vector logo from brand file",
+      "project": "CMB Studio",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18020667",
+      "invoice_ninja_id": "QnXe0Rvbxr",
+      "number": "0087",
+      "title": "Extract colors in assets",
+      "project": "CMB Studio",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18020896",
+      "invoice_ninja_id": "Wjneg5YbwZ",
+      "number": "0088",
+      "title": "Change fonts in assets",
+      "project": "Jemmic",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18029227",
+      "invoice_ninja_id": "Volej2RejN",
+      "number": "0089",
+      "title": "Create vector logo based on client’s proposition and idea",
+      "project": "Credit Klub",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18029244",
+      "invoice_ninja_id": "Wpmbk55ezJ",
+      "number": "0090",
+      "title": "Define a color palette",
+      "project": "Credit Klub",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18029246",
+      "invoice_ninja_id": "OpnelO5dKB",
+      "number": "0091",
+      "title": "Choose fonts",
+      "project": "Credit Klub",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18161726",
+      "invoice_ninja_id": "wMvbmwOeYA",
+      "number": "0092",
+      "title": "Find a template",
+      "project": "Credit Klub",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18162096",
+      "invoice_ninja_id": "4openZRe7A",
+      "number": "0093",
+      "title": "Website content (client instructions)",
+      "project": "Credit Klub",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18211339",
+      "invoice_ninja_id": "WJxboYjegw",
+      "number": "0094",
+      "title": "Flyer",
+      "project": "CMB Studio",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18211400",
+      "invoice_ninja_id": "k8mepg2dMy",
+      "number": "0095",
+      "title": "Create vector animation (optional)",
+      "project": "CMB Studio",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18212920",
+      "invoice_ninja_id": "l4zbqj2dpr",
+      "number": "0096",
+      "title": "Window management",
+      "project": "DSK",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18213242",
+      "invoice_ninja_id": "yMYer0EbOB",
+      "number": "0097",
+      "title": "Create slot system",
+      "project": "DSK",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18213700",
+      "invoice_ninja_id": "gl9avgmbG1",
+      "number": "0098",
+      "title": "Control / check developed screens and point out mistakes (and show solutions)",
+      "project": "DSK",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18216376",
+      "invoice_ninja_id": "7LDdwjRb1Y",
+      "number": "0099",
+      "title": "Slides",
+      "project": "Jemmic",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18227465",
+      "invoice_ninja_id": "Wjneg56bwZ",
+      "number": "0100",
+      "title": "Find template",
+      "project": "Margin Health - Project",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18227466",
+      "invoice_ninja_id": "Volej25ejN",
+      "number": "0101",
+      "title": "Initial ideas with Claude",
+      "project": "Margin Health - Project",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18233408",
+      "invoice_ninja_id": "Wpmbk5XezJ",
+      "number": "0102",
+      "title": "Finish slides",
+      "project": "MaPS System",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18235655",
+      "invoice_ninja_id": "OpnelO6dKB",
+      "number": "0103",
+      "title": "Find framer template",
+      "project": "TP Quants",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18295062",
+      "invoice_ninja_id": "wMvbmw0eYA",
+      "number": "0104",
+      "title": "Arrange Branding in Figma",
+      "project": "Credit Klub",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18396726",
+      "invoice_ninja_id": "4openZle7A",
+      "number": "0105",
+      "title": "Check no code stack and test",
+      "project": "TP Quants",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18461110",
+      "invoice_ninja_id": "WJxboYKegw",
+      "number": "0106",
+      "title": "Chat bubbles fixes (design system consistency)",
+      "project": "Jemmic",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18461186",
+      "invoice_ninja_id": "k8mepg6dMy",
+      "number": "0107",
+      "title": "BCN fixes",
+      "project": "Jemmic",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18461260",
+      "invoice_ninja_id": "l4zbqjrdpr",
+      "number": "0108",
+      "title": "Style tags",
+      "project": "MaPS System",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18469315",
+      "invoice_ninja_id": "yMYer06bOB",
+      "number": "0109",
+      "title": "Change all blue tones",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18511218",
+      "invoice_ninja_id": "gl9avgrbG1",
+      "number": "0110",
+      "title": "Implement Homepage \"Faces\" Section",
+      "project": "Kaizntree",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18511236",
+      "invoice_ninja_id": "7LDdwjwb1Y",
+      "number": "0111",
+      "title": "Connect Homepage Newsletter Subscribe to Loops",
+      "project": "Kaizntree",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18511252",
+      "invoice_ninja_id": "JX7axGreyv",
+      "number": "0112",
+      "title": "Fix Broken Resource Guide Signup Form",
+      "project": "Kaizntree",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18511319",
+      "invoice_ninja_id": "kzPdy8WbQr",
+      "number": "0113",
+      "title": "Complete Microsoft Clarity & Cookie Setup & JSON",
+      "project": "Kaizntree",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18511352",
+      "invoice_ninja_id": "mxkazm8eJ0",
+      "number": "0114",
+      "title": "Enhance Case Study Pages with Quotes and Faces",
+      "project": "Kaizntree",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18511360",
+      "invoice_ninja_id": "4w9aAnzbvM",
+      "number": "0115",
+      "title": "Build Careers Page Under Company Nav",
+      "project": "Kaizntree",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18511362",
+      "invoice_ninja_id": "X46dBgJe79",
+      "number": "0116",
+      "title": "Restructure Navigation with Solutions Dropdown",
+      "project": "Kaizntree",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18511364",
+      "invoice_ninja_id": "oBDbDRnel2",
+      "number": "0117",
+      "title": "Update Homepage Quote/Logo CTA Buttons",
+      "project": "Kaizntree",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18511366",
+      "invoice_ninja_id": "K4oeElkd0B",
+      "number": "0118",
+      "title": "Refresh AI Ops Assistant Page",
+      "project": "Kaizntree",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18511413",
+      "invoice_ninja_id": "xYRdGZ0bDz",
+      "number": "0119",
+      "title": "Update Co-Manufacturing / Self-Manufacturing Pages",
+      "project": "Kaizntree",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18511420",
+      "invoice_ninja_id": "1YQdJZodOG",
+      "number": "0120",
+      "title": "Verify Loops Subscribe Tracking Configuration",
+      "project": "Kaizntree",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18511421",
+      "invoice_ninja_id": "4y1aKOnaQG",
+      "number": "0121",
+      "title": "Add Photo Galleries to Selected Articles",
+      "project": "Kaizntree",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18512406",
+      "invoice_ninja_id": "q9wdLg4bjP",
+      "number": "0122",
+      "title": "Add new pubblications",
+      "project": "Margin Health - Project",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18513586",
+      "invoice_ninja_id": "7N1aMj3bWm",
+      "number": "0123",
+      "title": "MaPS fixes",
+      "project": "MaPS System",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18539971",
+      "invoice_ninja_id": "QJ0dNxzaLO",
+      "number": "0124",
+      "title": "Insert pictures",
+      "project": "Margin Health - Project",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18582195",
+      "invoice_ninja_id": "z3YaO7Naxq",
+      "number": "0125",
+      "title": "Share links in articles is broken (check)",
+      "project": "Kaizntree",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18582226",
+      "invoice_ninja_id": "mWZdP1neKg",
+      "number": "0126",
+      "title": "CMS resource page",
+      "project": "Kaizntree",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18582637",
+      "invoice_ninja_id": "LYqaQ1Yanj",
+      "number": "0127",
+      "title": "JSON FAQ",
+      "project": "Margin Health - Project",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18582639",
+      "invoice_ninja_id": "JAPdRgReGy",
+      "number": "0128",
+      "title": "JSON file",
+      "project": "CMB Studio",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18582642",
+      "invoice_ninja_id": "Oy5eVm1dEP",
+      "number": "0129",
+      "title": "JSON file",
+      "project": "Credit Klub",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18626590",
+      "invoice_ninja_id": "rlNbWngayg",
+      "number": "0130",
+      "title": "Green button success + Disabled",
+      "project": "DSK",
+      "closed": true,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18637309",
+      "invoice_ninja_id": "kQBeX6mbyK",
+      "number": "0131",
+      "title": "Check CMS styling",
+      "project": "Kaizntree",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18712588",
+      "invoice_ninja_id": "W4QbYvpdzq",
+      "number": "0132",
+      "title": "CMS Carreers",
+      "project": "Kaizntree",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18740394",
+      "invoice_ninja_id": "joQeZV6epZ",
+      "number": "0133",
+      "title": "Fill & Sign mobile",
+      "project": "Jemmic",
+      "closed": false,
+      "worked_minutes": 0
+    },
+    {
+      "productive_id": "18851456",
+      "invoice_ninja_id": "EKQe1rjaJY",
+      "number": "0134",
+      "title": "Brainstorm (together)",
+      "project": "Michael Jennings - Framer website",
+      "closed": false,
+      "worked_minutes": 0
+    }
+  ],
+  "skipped_existing": [],
+  "skipped_excluded": [
+    {
+      "productive_id": "14535014",
+      "title": "📨 Contact page",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14666990",
+      "title": "Create generic design system library from DSK one",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14667111",
+      "title": "Apollo",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14667171",
+      "title": "Post Esch",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14667187",
+      "title": "Tally drawer",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14667235",
+      "title": "👥 About page",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14667259",
+      "title": "📖 Portfolio (work) page",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14667271",
+      "title": "📋 Service page",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14667585",
+      "title": "📢 Blog page",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14675248",
+      "title": "Component cleaning in Framer",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14675257",
+      "title": "Create LLMS text (AI)",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14690011",
+      "title": "Test 1",
+      "project": "Test 2"
+    },
+    {
+      "productive_id": "14690012",
+      "title": "Test 2",
+      "project": "Test 2"
+    },
+    {
+      "productive_id": "14690109",
+      "title": "Test 1",
+      "project": "Test 3"
+    },
+    {
+      "productive_id": "14690110",
+      "title": "Test 2",
+      "project": "Test 3"
+    },
+    {
+      "productive_id": "14690112",
+      "title": "Search the 50 most asked questions about design (ui/ux, studio) topic through AI",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14690113",
+      "title": "Plan blog articles",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14690125",
+      "title": "Set up email Productive",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14690204",
+      "title": "Structure empty templates for posts in Figma",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14690205",
+      "title": "Framer templates",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14690621",
+      "title": "Email automatic answer (drafts)",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14690623",
+      "title": "Add CTA to private calendar booking \"book a call\"",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14690624",
+      "title": "Change wording to make it sound more like a “Saas specialized ui/ux studio” rather than a “Creative studio”",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14692072",
+      "title": "Create a new simplified signature",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14697541",
+      "title": "Figure out how to place absences",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14729289",
+      "title": "Apply signature Denisa",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14767786",
+      "title": "Time log automation for 2 companies",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14792942",
+      "title": "Create Gmail Labels",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14799825",
+      "title": "Whatsapp automation",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14799853",
+      "title": "Automation: Content",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14799982",
+      "title": "Generate a info file (productive document) with all the company info you have until now",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14800169",
+      "title": "Define selling points",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14800901",
+      "title": "Finish the website",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14824442",
+      "title": "Figure out how to connect whatsapp to facebook",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14860649",
+      "title": "Export contacts from Notion and import in Productive (by hand)",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14880001",
+      "title": "Create signature for Paul",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14896326",
+      "title": "Add all the invoices to the Nicola AI Email Agent",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14896327",
+      "title": "Save the expenses inside Productive too",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14896335",
+      "title": "Give me a list with all of the invoices you usually get",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14896427",
+      "title": "Cookie banner properly",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14896429",
+      "title": "Populate CMS",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14896430",
+      "title": "Set up google tag manager and put ID into the cookie banner",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14896431",
+      "title": "Create Google Analytics",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14896433",
+      "title": "Create Google search console",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14896434",
+      "title": "Create Bing webmaster tool",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14896435",
+      "title": "Create Microsoft Clarity",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14896436",
+      "title": "Track AHREFS",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14896440",
+      "title": "Set up Contra",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14896442",
+      "title": "🚨 Set up pricing packages",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14896443",
+      "title": "Set up Clutch and Sortlist",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14896458",
+      "title": "Put SEO on every page on the website",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14896879",
+      "title": "Create 3 blogs",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14896881",
+      "title": "Replace all of the case studies with real ones",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14896884",
+      "title": "Change quote on the home page",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14897007",
+      "title": "Change case study from home page",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "14924037",
+      "title": "Create invoice for the month of November",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "14956065",
+      "title": "🏠 Home page",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "15006693",
+      "title": "Make pricing section in Home Page",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "15037237",
+      "title": "Questions to Sven",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "15083149",
+      "title": "Add La Caserma",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "15083150",
+      "title": "Add Goedert",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "15083153",
+      "title": "Add TINKR",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "15219440",
+      "title": "Review some images in photo gallery (phone) with me",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "15288276",
+      "title": "Button bottom right corner with quick links",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "15288279",
+      "title": "Finance flow",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "15288284",
+      "title": "Add to website (need to pay)",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "15288330",
+      "title": "Improve project cards section",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "15403487",
+      "title": "Blog",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "15403488",
+      "title": "Portfolio",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "15504681",
+      "title": "Create Company Page on LinkedIn",
+      "project": "TINKR [Project]"
+    },
+    {
+      "productive_id": "15587499",
+      "title": "Tweak the email drafts for Square Studio Email",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "16143178",
+      "title": "Clutch",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "16143182",
+      "title": "Sortlist",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "16143183",
+      "title": "Creare servizi",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "16143187",
+      "title": "Creare servizi",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "16143336",
+      "title": "Dribbble",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "16143340",
+      "title": "Add projects",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "16143344",
+      "title": "Behance",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "16143348",
+      "title": "Add projects",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "16143581",
+      "title": "Improve footer",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17195309",
+      "title": "Contra",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17195315",
+      "title": "Add posts and projects",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17555972",
+      "title": "New hero section",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17555978",
+      "title": "Simplfiy structure",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17555981",
+      "title": "Add social media buttons (framer, dribbble, contra etc)",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17555990",
+      "title": "“Linktree like” page",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17555991",
+      "title": "Linktree like page for Square Studio",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17555992",
+      "title": "For myself",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17555997",
+      "title": "Framer expert",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17555998",
+      "title": "Add new websites",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17556001",
+      "title": "Figma global page setup",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17556008",
+      "title": "Wallpapers",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17556252",
+      "title": "Add new client logos",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17556297",
+      "title": "Remove pricing from service page",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17556304",
+      "title": "Create a “store” page [test]",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17556307",
+      "title": "Pitch deck",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17556309",
+      "title": "Deal with Amanda from Dribbble for visibility",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17556398",
+      "title": "Try to achieve “jitter pro” badge on Contra",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17556461",
+      "title": "Create Framer Expert (Pro?) animated badge",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17556466",
+      "title": "Improve SEO and meta description",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17611965",
+      "title": "Re-create lost automation for rent expense automation (and others?)",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "17731672",
+      "title": "Vibecode component (embed) for reviews for Framer (price 3usd)",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "18020713",
+      "title": "Internal template for Framer projects",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "18582690",
+      "title": "Projects",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "18582718",
+      "title": "Create new case studies",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "18582726",
+      "title": "Create Screen Studio videos for LinkedIn + X (optional: Insta)",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "18582732",
+      "title": "LinkedIn",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "18582735",
+      "title": "X",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "18582836",
+      "title": "Automate post content",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "18582841",
+      "title": "NOTE (IMPORTANT) - AI adaptation",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "18582931",
+      "title": "Find a way (learn) how to do it (slide examples)",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "18582936",
+      "title": "Figma (design systems)",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "18582937",
+      "title": "Framer",
+      "project": "Square Studio [Project]"
+    },
+    {
+      "productive_id": "19041586",
+      "title": "Bing webmaster tool (IndexNow)",
+      "project": "Square Studio [Project]"
+    }
+  ],
+  "skipped_no_project": [],
+  "errors": []
+}

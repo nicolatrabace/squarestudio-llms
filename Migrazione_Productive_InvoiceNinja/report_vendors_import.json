@@ -1,0 +1,388 @@
+{
+  "created": [
+    {
+      "name": "Apollo.io",
+      "productive_id": "1213173",
+      "invoice_ninja_id": "Wpmbk5ezJn",
+      "number": "0002",
+      "vat_number": "",
+      "currency_id": "1",
+      "country_id": "840",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "awwwards.",
+      "productive_id": "1233264",
+      "invoice_ninja_id": "Opnel5aKBz",
+      "number": "0003",
+      "vat_number": "ESB97063440",
+      "currency_id": "3",
+      "country_id": "724",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "BGL BNP Paribas",
+      "productive_id": "1206332",
+      "invoice_ninja_id": "wMvbmOeYAl",
+      "number": "0004",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "C&S Associés - Fiduciaire Comptable",
+      "productive_id": "1299436",
+      "invoice_ninja_id": "4openRe7Az",
+      "number": "0005",
+      "vat_number": "LU33261825",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "secretariat@cs-associes.lu",
+          "first_name": "Esther",
+          "last_name": "Lang"
+        }
+      ]
+    },
+    {
+      "name": "Denisa Zaharia (Freelancer)",
+      "productive_id": "1184461",
+      "invoice_ninja_id": "WJxbojagwO",
+      "number": "0006",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "DEUUX",
+      "productive_id": "1209266",
+      "invoice_ninja_id": "k8mep2bMyJ",
+      "number": "0007",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Figma",
+      "productive_id": "1198070",
+      "invoice_ninja_id": "l4zbq2dprO",
+      "number": "0008",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "840",
+      "contacts": [
+        {
+          "email": "support@figma.com",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Framer B.V.",
+      "productive_id": "1207239",
+      "invoice_ninja_id": "yMYerEdOBQ",
+      "number": "0009",
+      "vat_number": "NL853695386B01",
+      "currency_id": "1",
+      "country_id": "528",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Gandi",
+      "productive_id": "1213172",
+      "invoice_ninja_id": "gl9avmeG1v",
+      "number": "0010",
+      "vat_number": "LU26141926",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Gulf Petroleum (Luxembourg) SA",
+      "productive_id": "1207213",
+      "invoice_ninja_id": "7LDdwRb1YK",
+      "number": "0011",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "House of Entrepreneurship Luxembourg",
+      "productive_id": "1206337",
+      "invoice_ninja_id": "JX7ax9byv4",
+      "number": "0012",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Jitter Solutions Corp",
+      "productive_id": "1198071",
+      "invoice_ninja_id": "kzPdy7aQro",
+      "number": "0013",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "124",
+      "contacts": [
+        {
+          "email": "support@jitter.video",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Make",
+      "productive_id": "1198997",
+      "invoice_ninja_id": "mxkazYeJ0P",
+      "number": "0014",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "203",
+      "contacts": [
+        {
+          "email": "billing@make.com",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Minsitry of Foreign Affairs",
+      "productive_id": "1206330",
+      "invoice_ninja_id": "4w9aAOdvMR",
+      "number": "0015",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Mobbin",
+      "productive_id": "1198082",
+      "invoice_ninja_id": "X46dBXa79j",
+      "number": "0016",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "702",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Paladium Co-Working Space",
+      "productive_id": "1194144",
+      "invoice_ninja_id": "oBDbDxbl2E",
+      "number": "0017",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "antoine@paladium.lu",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Productive",
+      "productive_id": "1198641",
+      "invoice_ninja_id": "K4oeEva0By",
+      "number": "0018",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "840",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "Teamgest",
+      "productive_id": "1206427",
+      "invoice_ninja_id": "xYRdG7dDzO",
+      "number": "0019",
+      "vat_number": "LU22548750",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    },
+    {
+      "name": "TINKR",
+      "productive_id": "1184105",
+      "invoice_ninja_id": "1YQdJ2dOGp",
+      "number": "0020",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "sandorpaul10@gmail.com",
+          "first_name": "Paul",
+          "last_name": "Sandor"
+        }
+      ]
+    },
+    {
+      "name": "Ville de Differdange",
+      "productive_id": "1206338",
+      "invoice_ninja_id": "4y1aKReQGw",
+      "number": "0021",
+      "vat_number": "",
+      "currency_id": "3",
+      "country_id": "442",
+      "contacts": [
+        {
+          "email": "",
+          "first_name": "",
+          "last_name": ""
+        }
+      ]
+    }
+  ],
+  "skipped": [],
+  "errors": [],
+  "warnings": [
+    {
+      "name": "Apollo.io",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "BGL BNP Paribas",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "Denisa Zaharia (Freelancer)",
+      "warning": "no default_currency"
+    },
+    {
+      "name": "DEUUX",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "Figma",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "Gulf Petroleum (Luxembourg) SA",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "House of Entrepreneurship Luxembourg",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "Jitter Solutions Corp",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "Make",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "Minsitry of Foreign Affairs",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "Mobbin",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "Paladium Co-Working Space",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "Productive",
+      "warning": "placeholder VAT skipped"
+    },
+    {
+      "name": "TINKR",
+      "warning": "no default_currency"
+    },
+    {
+      "name": "Ville de Differdange",
+      "warning": "placeholder VAT skipped"
+    }
+  ]
+}
