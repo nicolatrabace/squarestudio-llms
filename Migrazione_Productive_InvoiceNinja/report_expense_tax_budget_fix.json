@@ -1,0 +1,265 @@
+{
+  "pdfs": "NOT in expense_productive.json — zero attachment fields; cannot import without a new extract/upload",
+  "duplicates_removed": [
+    {
+      "keep": "1523798",
+      "drop": "1523821",
+      "name": "AXA Insurance - Domiciliation",
+      "keep_date": "2026-02-02",
+      "drop_date": "2026-02-03"
+    },
+    {
+      "keep": "1523806",
+      "drop": "1523830",
+      "name": "Google Workspace (squarest)",
+      "keep_date": "2026-02-07",
+      "drop_date": "2026-02-12"
+    },
+    {
+      "keep": "1523799",
+      "drop": "1523822",
+      "name": "Coworking Paladium La Gare Centrale",
+      "keep_date": "2026-02-02",
+      "drop_date": "2026-02-03"
+    },
+    {
+      "keep": "1523678",
+      "drop": "1523811",
+      "name": "Dore Kebab",
+      "keep_date": "2026-01-19",
+      "drop_date": "2026-01-19"
+    },
+    {
+      "keep": "1523812",
+      "drop": "1523787",
+      "name": "CCSS Social contributions - January 2026",
+      "keep_date": "2026-01-20",
+      "drop_date": "2026-01-22"
+    },
+    {
+      "keep": "1523813",
+      "drop": "1523788",
+      "name": "Gasoline - Gulf 132 Differdange",
+      "keep_date": "2026-01-21",
+      "drop_date": "2026-01-23"
+    },
+    {
+      "keep": "1523814",
+      "drop": "1523790",
+      "name": "Hardware - Saturn Belval",
+      "keep_date": "2026-01-22",
+      "drop_date": "2026-01-26"
+    },
+    {
+      "keep": "1523815",
+      "drop": "1523791",
+      "name": "Jitter.video - Animation tool",
+      "keep_date": "2026-01-23",
+      "drop_date": "2026-01-27"
+    },
+    {
+      "keep": "1523817",
+      "drop": "1523793",
+      "name": "Orange Communications Luxembourg",
+      "keep_date": "2026-01-28",
+      "drop_date": "2026-01-29"
+    },
+    {
+      "keep": "1523794",
+      "drop": "1523818",
+      "name": "BGL BNP Paribas - Achat hors U.E. (4 operations)",
+      "keep_date": "2026-01-31",
+      "drop_date": "2026-01-31"
+    },
+    {
+      "keep": "1606999",
+      "drop": "1607642",
+      "name": "Rent (automated)",
+      "keep_date": "2026-05-01",
+      "drop_date": "2026-05-01"
+    },
+    {
+      "keep": "1607000",
+      "drop": "1607643",
+      "name": "Rent (automated)",
+      "keep_date": "2026-05-01",
+      "drop_date": "2026-05-01"
+    },
+    {
+      "keep": "1523805",
+      "drop": "1523828",
+      "name": "Salary Nicola Trabace - February 2026",
+      "keep_date": "2026-02-06",
+      "drop_date": "2026-02-10"
+    }
+  ],
+  "duplicates_deleted_count": 13,
+  "tax_fix": {
+    "updated": 186,
+    "errors": [],
+    "inferred": {
+      "0": 137,
+      "3": 18,
+      "17": 30,
+      "unknown": 1
+    }
+  },
+  "project_budget_updates": {
+    "updated": [
+      {
+        "project": "DSK",
+        "budget_name": "DSK 2025-2026 [Budget]",
+        "budgeted_amount": 38016.0,
+        "budgeted_hours": 384.0,
+        "task_rate_hourly": 99.0,
+        "day_rate": 792.0
+      },
+      {
+        "project": "MaPS System",
+        "budget_name": "MaPS System 2025 [Budget]",
+        "budgeted_amount": 7206.48,
+        "budgeted_hours": 144.0,
+        "task_rate_hourly": 50.05,
+        "day_rate": 400.36
+      },
+      {
+        "project": "Jemmic",
+        "budget_name": "Jemmic 2025 [Budget]",
+        "budgeted_amount": 9608.64,
+        "budgeted_hours": 192.0,
+        "task_rate_hourly": 50.05,
+        "day_rate": 400.36
+      },
+      {
+        "project": "Orange Week",
+        "budget_name": "Orange week budget",
+        "budgeted_amount": 0.0,
+        "budgeted_hours": 0,
+        "task_rate_hourly": 0.0,
+        "day_rate": null
+      },
+      {
+        "project": "MaPS System",
+        "budget_name": "MaPS System 2026 [Budget]",
+        "budgeted_amount": 51246.08,
+        "budgeted_hours": 1024.0,
+        "task_rate_hourly": 50.05,
+        "day_rate": 400.36
+      },
+      {
+        "project": "Jemmic",
+        "budget_name": "Jemmic 2026 [Budget]",
+        "budgeted_amount": 50845.72,
+        "budgeted_hours": 1016.0,
+        "task_rate_hourly": 50.05,
+        "day_rate": 400.36
+      },
+      {
+        "project": "La Caserma",
+        "budget_name": "La Caserma [Budget]",
+        "budgeted_amount": 0.0,
+        "budgeted_hours": 0,
+        "task_rate_hourly": 0.0,
+        "day_rate": null
+      },
+      {
+        "project": "Omer Poizner",
+        "budget_name": "Omer Pozner - Portfolio Website Framer",
+        "budgeted_amount": 1500.0,
+        "budgeted_hours": 0,
+        "task_rate_hourly": 0.0,
+        "day_rate": null
+      },
+      {
+        "project": "Kaizntree",
+        "budget_name": "Kaizntree - Framer website",
+        "budgeted_amount": 2000.0,
+        "budgeted_hours": 0,
+        "task_rate_hourly": 0.0,
+        "day_rate": null
+      },
+      {
+        "project": "Flourishlab",
+        "budget_name": "FlourishLab — Framer Website",
+        "budgeted_amount": 1000.0,
+        "budgeted_hours": 0,
+        "task_rate_hourly": 0.0,
+        "day_rate": null
+      },
+      {
+        "project": "CMB Studio",
+        "budget_name": "CMB Studio - Framer website",
+        "budgeted_amount": 2000.0,
+        "budgeted_hours": 0,
+        "task_rate_hourly": 0.0,
+        "day_rate": null
+      },
+      {
+        "project": "Margin Health - Project",
+        "budget_name": "Margin Health - Framer website",
+        "budgeted_amount": 3500.0,
+        "budgeted_hours": 0,
+        "task_rate_hourly": 0.0,
+        "day_rate": null
+      },
+      {
+        "project": "TP Quants",
+        "budget_name": "TP Quants - Framer website",
+        "budgeted_amount": 2500.0,
+        "budgeted_hours": 0,
+        "task_rate_hourly": 0.0,
+        "day_rate": null
+      },
+      {
+        "project": "Credit Klub",
+        "budget_name": "Credit Klub",
+        "budgeted_amount": 3500.0,
+        "budgeted_hours": 0,
+        "task_rate_hourly": 0.0,
+        "day_rate": null
+      },
+      {
+        "project": "KYIP CAPITAL - Framer",
+        "budget_name": "KYIP CAPITAL - Framer",
+        "budgeted_amount": 1000.0,
+        "budgeted_hours": 0,
+        "task_rate_hourly": 0.0,
+        "day_rate": null
+      },
+      {
+        "project": "Kaizntree",
+        "budget_name": "Kaizntree - Framer website",
+        "budgeted_amount": 1250.0,
+        "budgeted_hours": 0,
+        "task_rate_hourly": 0.0,
+        "day_rate": null
+      },
+      {
+        "project": "Michael Jennings - Framer website",
+        "budget_name": "Michael Jennings - Framer website",
+        "budgeted_amount": 2250.0,
+        "budgeted_hours": 0,
+        "task_rate_hourly": 0.0,
+        "day_rate": null
+      }
+    ],
+    "skipped": [
+      {
+        "budget": "TINKR [Budget]",
+        "reason": "client_not_found",
+        "company": "TINKR"
+      },
+      {
+        "budget": "Impulse AI",
+        "reason": "no_project_for_client",
+        "company": "Seadog Design"
+      },
+      {
+        "budget": "Impulse AI (part 2)",
+        "reason": "no_project_for_client",
+        "company": "Seadog Design"
+      }
+    ],
+    "errors": []
+  }
+}
