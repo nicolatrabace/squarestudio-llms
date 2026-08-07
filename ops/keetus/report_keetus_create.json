@@ -1,0 +1,40 @@
+{
+  "client": {
+    "name": "Shonga",
+    "brand": "Keetus",
+    "engagement": "Retainer",
+    "balance": 0
+  },
+  "project": [
+    {
+      "name": "Keetus",
+      "number": "0019",
+      "budgeted_amount": 4000,
+      "due_date": "2026-08-31",
+      "month_status": "2026-08 confirmed; 2026-09 STOP"
+    }
+  ],
+  "invoices": [
+    {
+      "number": "2026-29",
+      "amount": 4000,
+      "date": "2026-08-31",
+      "status_id": "1",
+      "project_id": "xYRdG7dDzO"
+    }
+  ],
+  "quotes": [
+    {
+      "number": "0024",
+      "amount": 6000,
+      "due_date": "2026-10-31",
+      "status_id": "1"
+    }
+  ],
+  "urls": {
+    "client": "https://admin.squarestudio.design/#/clients/l4zbqj2dpr",
+    "project": "https://admin.squarestudio.design/#/projects/xYRdG7dDzO",
+    "invoice": "https://admin.squarestudio.design/#/invoices/O5xe7jd7rJ/edit",
+    "quote": "https://admin.squarestudio.design/#/quotes/z3YaOpbxql/edit"
+  }
+}
