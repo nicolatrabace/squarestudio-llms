@@ -24,26 +24,29 @@ Invoice Ninja **non ha** un modulo budget Productive-like: il totale in euro si 
 
 ---
 
-## Caso Keetus (esempio reale, ago 2026)
+## Caso Shonga / Keetus (esempio reale, ago 2026)
 
 Situazione:
 
-- Nuovo cliente solo su Productive → va portato anche su admin
-- **Agosto**: retainer forfait **4.000 EUR** (singolo mese confermato)
+- Su Productive il **cliente** è **Shonga** (Keetus è il brand, ancora senza P.IVA)
+- **Agosto**: retainer forfait **4.000 EUR** (singolo mese confermato) sul progetto Keetus
 - **Settembre**: STOP
 - **Ottobre+**: negoziazione verso **6.000 EUR/mese** (retainer, non ancora firmato)
 
-### Cosa è stato creato su admin
+### Cosa è su admin
 
-1. **Client** `Keetus` — note private con timeline budget  
-2. **Project** `Keetus` (Active) — `budgeted_amount = 4000`, ore 0, Public Notes `BUDGET: 4.000,00 EUR — forfait`  
-3. **Quote Draft** `0024` — 6.000 EUR (pipeline negoziazione ottobre+)
+1. **Client** `Shonga` — CRM / fatturazione (non “Keetus”)  
+2. **Project** `Keetus` (Active, sotto Shonga) — `budgeted_amount = 4000`, ore 0, Public Notes `BUDGET: 4.000,00 EUR — forfait`  
+3. **Quote Draft** `0024` — 6.000 EUR (solo pipeline negoziazione ottobre+; non è il budget di agosto)
 
-Link utili (dopo create):
+Dove vedi i 4k: **Projects → Active → Keetus** (cliente Shonga), prima riga Public Notes.  
+La UI “Budgeted” mostra soprattutto le ore; per i forfait il riferimento euro è la riga `BUDGET:`.
+
+Link:
 
 - Client: `https://admin.squarestudio.design/#/clients/l4zbqj2dpr`
-- Project: `https://admin.squarestudio.design/#/projects/xYRdG7dDzO`
-- Quote: `https://admin.squarestudio.design/#/quotes/z3YaOpbxql`
+- Project 4k: `https://admin.squarestudio.design/#/projects/xYRdG7dDzO`
+- Quote 6k (draft): `https://admin.squarestudio.design/#/quotes/z3YaOpbxql`
 
 Script idempotente: `ops/keetus/add_keetus.py`  
 Report: `ops/keetus/report_keetus_create.json`
@@ -57,11 +60,11 @@ python3 ops/keetus/add_keetus.py
 
 | Quando | Azione su admin |
 |---|---|
-| Agosto (ora) | Project Active a 4k. Quando fatturi: **nuova Invoice** con riga flat 4.000 (prodotto tipo `Framer website` / design services), **non** “Invoice Project” da timer |
-| Fine agosto / settembre | Nessuna fattura. Lascia nota STOP; se non lavori più, **Archive** il project (o tienilo Active solo se serve come contenitore fino a ottobre) |
-| Negoziazione ottobre | Lavora sulla **Quote Draft 6k**; aggiorna importo se chiudi a un altro numero |
-| Se chiudi a 6k/mese | Approve quote → aggiorna Public Notes a `BUDGET: 6.000,00 EUR — forfait` e `budgeted_amount` → emetti fattura del mese |
-| Se non chiude | Quote resta Draft (o la segni persa nelle private notes); Archive project se non c’è più lavoro |
+| Agosto (ora) | Project Active Keetus a 4k sotto **Shonga**. Quando fatturi: **Invoice** su Shonga, riga flat 4.000 (**non** “Invoice Project” da timer) |
+| Fine agosto / settembre | Nessuna fattura. Nota STOP; **Archive** il project se non serve più come lavoro corrente |
+| Negoziazione ottobre | Quote Draft 6k (pipeline). Non confonderla col budget progetto di agosto |
+| Se chiudi a 6k/mese | Approve quote → aggiorna Public Notes a `BUDGET: 6.000,00 EUR — forfait` e `budgeted_amount` → fattura del mese su Shonga |
+| Se non chiude | Quote resta Draft; Archive project se non c’è più lavoro |
 
 ---
 
@@ -86,10 +89,10 @@ API=https://admin.squarestudio.design/api/v1
 H=(-H "X-Api-Token: $INVOICE_NINJA_TOKEN" -H "X-Requested-With: XMLHttpRequest" \
    -H "Content-Type: application/json" -H "Accept: application/json")
 
-# Client
-curl -sS "${H[@]}" -X POST "$API/clients" -d '{"name":"Keetus","settings":{"currency_id":"3"},"contacts":[{"is_primary":true,"send_email":false}]}'
+# Client (CRM = Shonga; brand Keetus non ha ancora P.IVA)
+curl -sS "${H[@]}" -X POST "$API/clients" -d '{"name":"Shonga","settings":{"currency_id":"3"},"contacts":[{"is_primary":true,"send_email":false}]}'
 
-# Project forfait
+# Project forfait (nome brand Keetus, sotto Shonga)
 curl -sS "${H[@]}" -X POST "$API/projects" -d '{"name":"Keetus","client_id":"…","budgeted_amount":4000,"budgeted_hours":0,"task_rate":0,"public_notes":"BUDGET: 4.000,00 EUR — forfait"}'
 
 # Quote negoziazione

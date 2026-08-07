@@ -3,16 +3,19 @@
     {
       "step": "client",
       "status": "updated",
-      "id": "l4zbqj2dpr"
+      "id": "l4zbqj2dpr",
+      "name": "Shonga"
     },
     {
       "step": "project",
       "status": "updated",
-      "id": "xYRdG7dDzO"
+      "id": "xYRdG7dDzO",
+      "name": "Keetus",
+      "budgeted_amount": 4000
     },
     {
       "step": "quote",
-      "status": "exists",
+      "status": "updated",
       "id": "z3YaOpbxql",
       "number": "0024",
       "amount": 6000
@@ -21,10 +24,11 @@
   "verify": {
     "client": {
       "id": "l4zbqj2dpr",
-      "name": "Keetus"
+      "name": "Shonga"
     },
     "project": {
       "id": "xYRdG7dDzO",
+      "name": "Keetus",
       "budgeted_amount": 4000,
       "public_notes_first_line": "BUDGET: 4.000,00 EUR — forfait"
     },
