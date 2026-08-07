@@ -1,6 +1,10 @@
 {
   "actions": [
     {
+      "step": "custom_field_labels",
+      "status": "ok"
+    },
+    {
       "step": "client",
       "status": "updated",
       "id": "l4zbqj2dpr",
@@ -10,7 +14,7 @@
       "step": "project",
       "status": "updated",
       "id": "xYRdG7dDzO",
-      "name": "Keetus",
+      "due_date": "2026-08-31",
       "budgeted_amount": 4000
     },
     {
@@ -18,30 +22,36 @@
       "status": "updated",
       "id": "z3YaOpbxql",
       "number": "0024",
-      "amount": 6000
+      "amount": 6000,
+      "project_id": "xYRdG7dDzO",
+      "due_date": "2026-10-31"
     }
   ],
   "verify": {
     "client": {
       "id": "l4zbqj2dpr",
-      "name": "Shonga"
+      "name": "Shonga",
+      "brand_custom_value2": "Keetus"
     },
     "project": {
       "id": "xYRdG7dDzO",
-      "name": "Keetus",
+      "due_date": "2026-08-31",
       "budgeted_amount": 4000,
-      "public_notes_first_line": "BUDGET: 4.000,00 EUR — forfait"
+      "custom_value2": "Keetus",
+      "custom_value4": "2026-08 confirmed; 2026-09 STOP",
+      "public_notes": "BUDGET: 4.000,00 EUR — forfait"
     },
     "quote": {
       "id": "z3YaOpbxql",
       "number": "0024",
       "amount": 6000,
-      "status_id": "1"
+      "project_id": "xYRdG7dDzO",
+      "due_date": "2026-10-31"
     },
     "urls": {
-      "client": "https://admin.squarestudio.design/#/clients/l4zbqj2dpr",
-      "project": "https://admin.squarestudio.design/#/projects/xYRdG7dDzO",
-      "quote": "https://admin.squarestudio.design/#/quotes/z3YaOpbxql"
+      "client": "https://admin.squarestudio.design/#/clients/l4zbqj2dpr/edit",
+      "project": "https://admin.squarestudio.design/#/projects/xYRdG7dDzO/edit",
+      "quote": "https://admin.squarestudio.design/#/quotes/z3YaOpbxql/edit"
     }
   }
 }
