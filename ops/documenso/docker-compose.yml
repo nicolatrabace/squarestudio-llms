@@ -1,0 +1,83 @@
+name: documenso
+
+services:
+  database:
+    image: postgres:15-alpine
+    container_name: documenso-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+    volumes:
+      - documenso-db-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U $$POSTGRES_USER -d $$POSTGRES_DB']
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - default
+
+  mailpit:
+    image: axllent/mailpit:latest
+    container_name: documenso-mailpit
+    restart: unless-stopped
+    networks:
+      - default
+    # Internal only — view with: docker exec / port-forward if needed
+
+  documenso:
+    image: documenso/documenso:latest
+    container_name: documenso
+    restart: unless-stopped
+    depends_on:
+      database:
+        condition: service_healthy
+      mailpit:
+        condition: service_started
+    env_file:
+      - .env
+    environment:
+      PORT: ${PORT:-3000}
+      NEXTAUTH_SECRET: ${NEXTAUTH_SECRET}
+      NEXT_PRIVATE_ENCRYPTION_KEY: ${NEXT_PRIVATE_ENCRYPTION_KEY}
+      NEXT_PRIVATE_ENCRYPTION_SECONDARY_KEY: ${NEXT_PRIVATE_ENCRYPTION_SECONDARY_KEY}
+      NEXT_PUBLIC_WEBAPP_URL: ${NEXT_PUBLIC_WEBAPP_URL}
+      NEXT_PRIVATE_INTERNAL_WEBAPP_URL: ${NEXT_PRIVATE_INTERNAL_WEBAPP_URL}
+      NEXT_PRIVATE_DATABASE_URL: ${NEXT_PRIVATE_DATABASE_URL}
+      NEXT_PRIVATE_DIRECT_DATABASE_URL: ${NEXT_PRIVATE_DIRECT_DATABASE_URL}
+      NEXT_PRIVATE_SMTP_TRANSPORT: ${NEXT_PRIVATE_SMTP_TRANSPORT}
+      NEXT_PRIVATE_SMTP_HOST: ${NEXT_PRIVATE_SMTP_HOST}
+      NEXT_PRIVATE_SMTP_PORT: ${NEXT_PRIVATE_SMTP_PORT}
+      NEXT_PRIVATE_SMTP_USERNAME: ${NEXT_PRIVATE_SMTP_USERNAME}
+      NEXT_PRIVATE_SMTP_PASSWORD: ${NEXT_PRIVATE_SMTP_PASSWORD}
+      NEXT_PRIVATE_SMTP_SECURE: ${NEXT_PRIVATE_SMTP_SECURE}
+      NEXT_PRIVATE_SMTP_UNSAFE_IGNORE_TLS: ${NEXT_PRIVATE_SMTP_UNSAFE_IGNORE_TLS}
+      NEXT_PRIVATE_SMTP_FROM_NAME: ${NEXT_PRIVATE_SMTP_FROM_NAME}
+      NEXT_PRIVATE_SMTP_FROM_ADDRESS: ${NEXT_PRIVATE_SMTP_FROM_ADDRESS}
+      NEXT_PRIVATE_SIGNING_LOCAL_FILE_PATH: ${NEXT_PRIVATE_SIGNING_LOCAL_FILE_PATH}
+      NEXT_PRIVATE_SIGNING_PASSPHRASE: ${NEXT_PRIVATE_SIGNING_PASSPHRASE}
+      NEXT_PUBLIC_DISABLE_SIGNUP: ${NEXT_PUBLIC_DISABLE_SIGNUP}
+
+      DOCUMENSO_DISABLE_TELEMETRY: ${DOCUMENSO_DISABLE_TELEMETRY:-true}
+      NEXT_PRIVATE_ALLOWED_SIGNUP_DOMAINS: ${NEXT_PRIVATE_ALLOWED_SIGNUP_DOMAINS}
+    volumes:
+      - /opt/documenso/cert.p12:/opt/documenso/cert.p12:ro
+    labels:
+      - traefik.enable=true
+      - traefik.docker.network=traefik-proxy
+      - traefik.http.routers.documenso.rule=Host(`sign.squarestudio.design`)
+      - traefik.http.routers.documenso.entrypoints=websecure
+      - traefik.http.routers.documenso.tls.certresolver=letsencrypt
+      - traefik.http.services.documenso.loadbalancer.server.port=3000
+    networks:
+      - default
+      - traefik-proxy
+
+volumes:
+  documenso-db-data:
+
+networks:
+  traefik-proxy:
+    external: true
