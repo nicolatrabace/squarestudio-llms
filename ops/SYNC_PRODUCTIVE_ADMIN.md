@@ -34,6 +34,11 @@ Label custom fields (company): Productive ID / Brand / Engagement|Type / Month s
 | Project | **Keetus** — Budgeted Amount **4000**, Hours **0**, Due **2026-08-31**, Type=`Retainer forfait`, Month status=`2026-08 confirmed; 2026-09 STOP` |
 | Public Notes progetto | solo `BUDGET: 4.000,00 EUR — forfait` |
 | Quote Draft 0024 | 6000 €, project linked, Due **2026-10-31**, Pipeline=`Oct+ negotiation` |
+| Invoice Draft **2026-29** | 4000 € agosto, collegata al project, data 31/08/2026 |
+
+> Numerazione: il contatore interno Ninja è a `0002` (padding 4) mentre le fatture reali usano `2026-XX`.
+> Ogni fattura nuova va rinumerata a mano (o si sistema il pattern nei settings).
+> `2026-29` era il numero provvisorio annotato per la DSK mai importata: se serve a DSK, rinumerare questa.
 
 Link edit:
 
@@ -50,7 +55,7 @@ python3 ops/keetus/add_keetus.py
 
 ### Mese per mese
 
-1. **Agosto** — Project Active 4k, Due 31/08. Fattura flat su Shonga quando pronto.  
+1. **Agosto** — Project Active 4k, Due 31/08. Fattura Draft `2026-29` già pronta: controlla e manda.  
 2. **Settembre** — Month status già STOP; Archive project se non serve.  
 3. **Ottobre+** — Quote Draft 6k; se vinci → Approve, aggiorna Budgeted Amount + `BUDGET:` + Due Date.
 

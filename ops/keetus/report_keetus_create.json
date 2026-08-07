@@ -1,57 +1,40 @@
 {
-  "actions": [
+  "client": {
+    "name": "Shonga",
+    "brand": "Keetus",
+    "engagement": "Retainer",
+    "balance": 0
+  },
+  "project": [
     {
-      "step": "custom_field_labels",
-      "status": "ok"
-    },
-    {
-      "step": "client",
-      "status": "updated",
-      "id": "l4zbqj2dpr",
-      "name": "Shonga"
-    },
-    {
-      "step": "project",
-      "status": "updated",
-      "id": "xYRdG7dDzO",
+      "name": "Keetus",
+      "number": "0019",
+      "budgeted_amount": 4000,
       "due_date": "2026-08-31",
-      "budgeted_amount": 4000
-    },
-    {
-      "step": "quote",
-      "status": "updated",
-      "id": "z3YaOpbxql",
-      "number": "0024",
-      "amount": 6000,
-      "project_id": "xYRdG7dDzO",
-      "due_date": "2026-10-31"
+      "month_status": "2026-08 confirmed; 2026-09 STOP"
     }
   ],
-  "verify": {
-    "client": {
-      "id": "l4zbqj2dpr",
-      "name": "Shonga",
-      "brand_custom_value2": "Keetus"
-    },
-    "project": {
-      "id": "xYRdG7dDzO",
-      "due_date": "2026-08-31",
-      "budgeted_amount": 4000,
-      "custom_value2": "Keetus",
-      "custom_value4": "2026-08 confirmed; 2026-09 STOP",
-      "public_notes": "BUDGET: 4.000,00 EUR — forfait"
-    },
-    "quote": {
-      "id": "z3YaOpbxql",
+  "invoices": [
+    {
+      "number": "2026-29",
+      "amount": 4000,
+      "date": "2026-08-31",
+      "status_id": "1",
+      "project_id": "xYRdG7dDzO"
+    }
+  ],
+  "quotes": [
+    {
       "number": "0024",
       "amount": 6000,
-      "project_id": "xYRdG7dDzO",
-      "due_date": "2026-10-31"
-    },
-    "urls": {
-      "client": "https://admin.squarestudio.design/#/clients/l4zbqj2dpr/edit",
-      "project": "https://admin.squarestudio.design/#/projects/xYRdG7dDzO/edit",
-      "quote": "https://admin.squarestudio.design/#/quotes/z3YaOpbxql/edit"
+      "due_date": "2026-10-31",
+      "status_id": "1"
     }
+  ],
+  "urls": {
+    "client": "https://admin.squarestudio.design/#/clients/l4zbqj2dpr",
+    "project": "https://admin.squarestudio.design/#/projects/xYRdG7dDzO",
+    "invoice": "https://admin.squarestudio.design/#/invoices/O5xe7jd7rJ/edit",
+    "quote": "https://admin.squarestudio.design/#/quotes/z3YaOpbxql/edit"
   }
 }
